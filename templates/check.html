@@ -1,0 +1,81 @@
+{% extends 'base.html' %}
+
+{% block body %}
+
+    <link rel="stylesheet" href="static/css/check.css" media="screen">
+    <section class="u-clearfix u-section-1" id="sec-dba6">
+      <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
+        <div class="u-layout">
+          <div class="u-layout-row">
+            <div class="u-container-style u-layout-cell u-size-30 u-layout-cell-1">
+              <div class="u-container-layout u-container-layout-1">
+                <div class="u-expanded-width u-form u-form-1">
+                  <form action="/send" method="post" class="u-clearfix u-form-spacing-10 u-form-vertical u-inner-form" name="form" style="padding: 10px;">
+                    <div class="u-form-date u-form-group u-label-none u-form-group-1">
+                      <input type="date" placeholder="Введите дату (если не указано, используется текущая)" name="date" class="u-input u-input-rectangle">
+                    </div>
+                    <div class="u-form-group u-form-time u-label-none u-form-group-2">
+                      <input type="time" name="time" class="u-input u-input-rectangle" placeholder="Введите время (если не указано, используется текущее)">
+                    </div>
+                    <div class="u-form-group u-form-name u-label-none">
+                      <input type="search" list="{{store_list}}" placeholder="Выберите склад отгрузки" name="storeFrom" class="u-input u-input-rectangle" required="required">
+                      <datalist id="{{store_list}}">
+                        {% for option in store_list %}
+                        <option value="{{option}}"></option>
+                        {% endfor %}
+                      </datalist>
+                    </div>
+                    <div class="u-form-email u-form-group u-label-none">
+                      <input type="search" list="{{store_list}}" placeholder="Выберите склад получатель" name="storeTo" class="u-input u-input-rectangle" required="required">
+                      <datalist id="{{store_list}}">
+                        {% for option in store_list %}
+                        <option value="{{option}}"></option>
+                        {% endfor %}
+                      </datalist>
+                    </div>
+                    <div class="u-form-group u-form-message u-label-none">
+                      <input type="text" placeholder="Комментарий к документу" rows="4" cols="50" id="message-f282" name="comment" class="u-input u-input-rectangle"></input>
+                    </div>
+                    <div class="u-align-center u-form-group u-form-submit u-label-none">
+                      <input type="submit" value="Отправить" class="u-border-none u-btn u-btn-submit u-button-style u-hover-white u-btn-1">
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="u-container-align-center u-container-style u-layout-cell u-size-30 u-layout-cell-2">
+              <div class="u-container-layout u-valign-middle u-container-layout-2">
+                <div class="u-container-style u-expanded-width u-grey-10 u-group u-opacity u-opacity-40 u-group-1">
+                  <div class="u-container-layout u-container-layout-3">
+                    <div class="u-expanded-width u-table u-table-responsive u-table-1">
+                      <table class="u-table-entity">
+                        <colgroup>
+                          <col width="78%">
+                          <col width="22%">
+                        </colgroup>
+                        <thead class="u-align-center u-palette-4-light-1 u-table-header u-table-header-1">
+                          <tr style="height: 46px;">
+                            <th class="u-border-1 u-border-grey-dark-1 u-table-cell">Наименование</th>
+                            <th class="u-border-1 u-border-grey-dark-1 u-table-cell">Количество</th>
+                          </tr>
+                        </thead>
+                        <tbody class="u-table-body u-white u-table-body-1">
+                          {% for key, value in items.items() %}
+                          <tr style="height: 46px;">
+                            <td class="u-border-1 u-border-grey-dark-1 u-table-cell">{{ key }}</td>
+                            <td class="u-border-1 u-border-grey-dark-1 u-table-cell">{{ value }}</td>
+                          </tr>
+                          {% endfor %}
+                        </tbody>
+                      </table>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+{% endblock %}

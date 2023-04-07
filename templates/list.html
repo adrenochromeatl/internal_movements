@@ -1,0 +1,69 @@
+{% extends 'base.html' %}
+
+{% block body %}
+
+    <link rel="stylesheet" href="static/css/list.css" media="screen">
+    <form action="/check" method="post">
+        <section class="u-clearfix u-valign-bottom u-section-1" id="sec-039e">
+        <input type="submit" value="Далее" class="u-border-none u-btn u-button-style u-hover-white u-btn-1">
+            <div class="u-form-group u-form-name">
+                <input type="text" id="search" name="search" placeholder="Поиск по таблице" class="u-input u-input-rectangle">
+            </div>
+        <div class="u-container-style u-expanded-width u-grey-10 u-group u-opacity u-opacity-40 u-group-1">
+            <div class="u-container-layout u-container-layout-1">
+              <div class="u-expanded-width u-table u-table-responsive u-table-1">
+                <table id="mytable" class="u-table-entity">
+                  <colgroup>
+                    <col width="78%">
+                    <col width="22%">
+                  </colgroup>
+                  <thead class="u-palette-4-light-1 u-table-header u-text-black u-table-header-1">
+                    <tr style="height: 46px;">
+                      <th class="u-border-1 u-border-black u-table-cell">Наименование</th>
+                      <th class="u-border-1 u-border-black u-table-cell">Количество</th>
+                    </tr>
+                  </thead>
+                  <tbody class="u-table-body u-white u-table-body-1">
+                  {% for name in products_list %}
+                    <tr style="height: 46px;">
+                        <td class="u-border-1 u-border-black u-table-cell">{{name}}</td>
+                        <td class="u-border-1 u-border-black u-table-cell">
+                            <input name="amount" type="text" placeholder="Введите кол-во" class="u-input u-input-rectangle">
+                        </td>
+                    </tr>
+                  {% endfor %}
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </section>
+    </form>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script>
+    $(document).ready(function(){
+
+        $("#search").keyup(function(){
+
+           _this = this;
+
+           $.each($("#mytable tbody tr"), function() {
+
+               if($(this).text().toLowerCase().indexOf($(_this).val().toLowerCase()) === -1) {
+
+                $(this).hide();
+
+               } else {
+
+                $(this).show();
+
+               }
+
+           });
+
+        });
+
+    });
+    </script>
+  
+{% endblock %}
