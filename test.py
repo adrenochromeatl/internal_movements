@@ -24,7 +24,7 @@ from pathlib import Path
 #
 # token = auth(envic)
 #
-# get_employees_card_number(token, envic)
+
 # write_stocks(token, envic)
 # write_products_name(token, envic)
 # write_products_id(token, envic)
@@ -49,12 +49,5 @@ from pathlib import Path
 
 envic = read_envic()
 token = auth(envic)
-print(token.text)
-# ier = requests.get(envic['protocol'] + '://' +
-#                    envic['server'] + ':' +
-#                    envic['port'] +
-#                    envic['bd'] + 'api/corporation/stores?key=' + token.text)
-# soup = BeautifulSoup(ier.content, 'xml')
-# print(soup)
-print(write_stocks(token, envic))
+print(write_products_name(token, envic))
 logout(token, envic)

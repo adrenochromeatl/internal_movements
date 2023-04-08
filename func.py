@@ -75,8 +75,8 @@ def write_products_name(token, envic):
     products_full = dict(zip(products_list, products_id))
     with open(Path('resource', 'products_name.json'), 'w', encoding=encod) as file:
         json.dump(products_full, file, indent=4, ensure_ascii=False)
-    return products_full
-
+    # return products_full
+    return soup
 
 def write_products_id(token, envic):
     url = (envic['protocol'] + '://' +

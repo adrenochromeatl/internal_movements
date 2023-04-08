@@ -33,9 +33,19 @@ def check_card_number() -> 'html':
 @app.route('/list', methods=['post', 'get'])
 def show_list() -> 'html':
     global employee
-    employee = request.form['card_number']
+    try:
+        card_num = request.form['card_number']
+        employee = read_employees()[card_num]
+    except:
+        try:
+            employee = employee
+        except:
+            return render_template('nice.html',
+                                   the_title='Неверный номер',
+                                   status='Пройдите заново авторизацию')
     products_list = list(read_products_name().keys())
     return render_template('list.html',
+                           username=employee,
                            the_title='Список позиций',
                            products_list=products_list)
 
@@ -54,6 +64,7 @@ def check() -> 'html':
         else:
             continue
     return render_template('check.html',
+                           username=employee,
                            items=items,
                            store_list=store_list)
 
@@ -75,8 +86,15 @@ def send() -> 'html':
     envic = read_envic()
     token = auth(envic)
     result = str(send_internal_movements(envic, token, message))
+    if result == '<Response [200]>':
+        result = 'Успешно отправлен.'
+    elif result == '<Response [400]>':
+        result = 'Отправка не удалась. Неверно введены данные.'
+    elif result == '<Response [500]>':
+        result = 'Отправка не удалась. Ошибка сервера'
     logout(token, envic)
     return render_template('nice.html',
+                           username=employee,
                            status=result)
 
 
