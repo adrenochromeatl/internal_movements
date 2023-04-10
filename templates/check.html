@@ -50,13 +50,15 @@
                     <div class="u-expanded-width u-table u-table-responsive u-table-1">
                       <table class="u-table-entity">
                         <colgroup>
-                          <col width="78%">
-                          <col width="22%">
+                          <col width="75%">
+                          <col width="15%">
+                          <col width="10%">
                         </colgroup>
                         <thead class="u-align-center u-palette-4-light-1 u-table-header u-table-header-1">
                           <tr style="height: 46px;">
                             <th class="u-border-1 u-border-grey-dark-1 u-table-cell">Наименование</th>
                             <th class="u-border-1 u-border-grey-dark-1 u-table-cell">Количество</th>
+                            <th class="u-border-1 u-border-grey-dark-1 u-table-cell">Ед. Изм</th>
                           </tr>
                         </thead>
                         <tbody class="u-table-body u-white u-table-body-1">
@@ -64,6 +66,7 @@
                           <tr style="height: 46px;">
                             <td class="u-border-1 u-border-grey-dark-1 u-table-cell">{{ key }}</td>
                             <td class="u-border-1 u-border-grey-dark-1 u-table-cell">{{ value }}</td>
+                            <td class="u-border-1 u-border-grey-dark-1 u-table-cell">{{ name_mainUnit[key] }}</td>
                           </tr>
                           {% endfor %}
                         </tbody>

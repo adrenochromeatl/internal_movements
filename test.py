@@ -1,53 +1,26 @@
 import json
-
 import requests
 from bs4 import BeautifulSoup
 
-from func import read_envic, \
-    read_products_name, \
-    read_products_id, \
-    read_stocks, \
-    write_stocks, \
-    write_products_name, \
-    write_products_id, \
-    auth, \
-    logout, \
-    collect_message, \
-    send_internal_movements, \
-    read_employees, \
-    make_items, \
-    get_employees_card_number, encod
+import func
 import random
 from pathlib import Path
 
-# envic = read_envic()
-#
-# token = auth(envic)
-#
 
-# write_stocks(token, envic)
-# write_products_name(token, envic)
-# write_products_id(token, envic)
-# log_out = logout(token, envic)
-# print(log_out.url)
-
-# store = read_stocks()
-# products = read_products_name()
-# products_id = read_products_id()
-# names = list(products.keys())
+envic = func.read_envic()
+token = func.auth(envic)
+func.write_stocks(token, envic)
+func.write_products_name(token, envic)
+func.write_products_id(token, envic)
+func.get_employees_card_number(token, envic)
+func.logout(token, envic)
+# with open(Path(Path.cwd(), 'resource', 'products.json')) as file:
+#     products = json.load(file)
 #
-# message = collect_message(date_incoming='2023-03-28T00:20',
-#                           comment='test',
-#                           store_from=store["test_goose"],
-#                           store_to=store["Кофе"],
-#                           items=make_items(products_list=random.sample(names, 4), amount_list=[2, 2.5, 3.2, 1.98]))
+# name_mainUnit = {}
+# for item in products:
+#     name = item['name']
+#     mainUnit = item['mainUnit']
+#     name_mainUnit.update({name: mainUnit})
 #
-# print(message)
-
-# result = send_internal_movements(envic=envic, token=token, message=message)
-# print(result)
-
-envic = read_envic()
-token = auth(envic)
-print(write_products_name(token, envic))
-logout(token, envic)
+# print(name_mainUnit)

@@ -5,7 +5,7 @@ import hashlib
 from bs4 import BeautifulSoup
 from pathlib import Path
 
-encod = 'UTF-8'
+encod = 'cp1251'
 
 
 def read_envic():
@@ -59,6 +59,76 @@ def read_stocks():
     return stocks
 
 
+def products(token, server_data):
+    url = (server_data['protocol'] + '://' +
+           server_data['server'] + ':' +
+           server_data['port'] +
+           server_data['bd'] + '/api/products?key=' + token.text)
+    response = requests.get(url)
+    soup = BeautifulSoup(response.content, 'xml')
+    result = []
+    for productDto in soup.find_all('productDto'):
+        try:
+            id = productDto.find('id').string
+        except AttributeError:
+            id = 'None'
+
+        try:
+            parentId = productDto.find('parentId').string
+        except AttributeError:
+            parentId = 'None'
+
+        try:
+            num = productDto.find('num').string
+        except AttributeError:
+            num = 'None'
+
+        try:
+            code = productDto.find('code').string
+        except AttributeError:
+            code = 'None'
+
+        try:
+            name = productDto.find('name').string
+        except AttributeError:
+            name = 'None'
+
+        try:
+            productType = productDto.find('productType').string
+        except AttributeError:
+            productType = 'None'
+
+        try:
+            cookingPlaceType = productDto.find('cookingPlaceType').string
+        except AttributeError:
+            cookingPlaceType = 'None'
+
+        try:
+            mainUnit = productDto.find('mainUnit').string
+        except AttributeError:
+            mainUnit = 'None'
+
+        try:
+            productCategory = productDto.find('productCategory').string
+        except AttributeError:
+            productCategory = 'None'
+
+        eta = {
+            "id": id,
+            "parentId": parentId,
+            "num": num,
+            "code": code,
+            "name": name,
+            "productType": productType,
+            "cookingPlaceType": cookingPlaceType,
+            "mainUnit": mainUnit,
+            "productCategory": productCategory
+        }
+        result.append(eta)
+
+    return result
+
+
 def write_products_name(token, envic):
     url = (envic['protocol'] + '://' +
            envic['server'] + ':' +
@@ -77,6 +147,7 @@ def write_products_name(token, envic):
         json.dump(products_full, file, indent=4, ensure_ascii=False)
     # return products_full
     return soup
+
 
 def write_products_id(token, envic):
     url = (envic['protocol'] + '://' +
