@@ -4,32 +4,32 @@
         "parentId": "067a6904-311d-4015-addd-d46b66f255fb",
         "num": "00148",
         "code": "82",
-        "name": "10 процедур абонемент",
+        "name": "10 РїСЂРѕС†РµРґСѓСЂ Р°Р±РѕРЅРµРјРµРЅС‚",
         "productType": "SERVICE",
-        "cookingPlaceType": "Услуги",
-        "mainUnit": "шт",
-        "productCategory": "10 процедур абонемент"
+        "cookingPlaceType": "РЈСЃР»СѓРіРё",
+        "mainUnit": "С€С‚",
+        "productCategory": "10 РїСЂРѕС†РµРґСѓСЂ Р°Р±РѕРЅРµРјРµРЅС‚"
     },
     {
         "id": "0bc6138e-4ed8-42d3-9d22-dc9d9a9eeb07",
         "parentId": "067a6904-311d-4015-addd-d46b66f255fb",
         "num": "00147",
         "code": "81",
-        "name": "5 процедур абонемент",
+        "name": "5 РїСЂРѕС†РµРґСѓСЂ Р°Р±РѕРЅРµРјРµРЅС‚",
         "productType": "SERVICE",
-        "cookingPlaceType": "Услуги",
-        "mainUnit": "шт",
-        "productCategory": "5 процедур абонемент"
+        "cookingPlaceType": "РЈСЃР»СѓРіРё",
+        "mainUnit": "С€С‚",
+        "productCategory": "5 РїСЂРѕС†РµРґСѓСЂ Р°Р±РѕРЅРµРјРµРЅС‚"
     },
     {
         "id": "ac5564ca-da55-065b-0185-f45e8149a6f1",
         "parentId": "c424313f-4aae-4baa-8e13-22846e9ef7ac",
         "num": "11124",
         "code": "139",
-        "name": "7up в стекле",
+        "name": "7up РІ СЃС‚РµРєР»Рµ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "шт",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -37,21 +37,21 @@
         "parentId": "3545de99-38aa-45ab-a3a7-62194aa8907a",
         "num": "15786",
         "code": "70581",
-        "name": "Amargo de Angostura 50гр",
+        "name": "Amargo de Angostura 50РіСЂ",
         "productType": "DISH",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "порц",
-        "productCategory": "Алкоголь"
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РїРѕСЂС†",
+        "productCategory": "РђР»РєРѕРіРѕР»СЊ"
     },
     {
         "id": "ac5564ca-da55-065b-0185-f45e8149a6dd",
         "parentId": "3545de99-38aa-45ab-a3a7-62194aa8907a",
         "num": "15514",
         "code": "841",
-        "name": "Amargo de Angostura бут.",
+        "name": "Amargo de Angostura Р±СѓС‚.",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "шт",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -59,22 +59,22 @@
         "parentId": "3545de99-38aa-45ab-a3a7-62194aa8907a",
         "num": "15496",
         "code": "823",
-        "name": "Campari Bitter Aperitif 100гр",
+        "name": "Campari Bitter Aperitif 100РіСЂ",
         "productType": "DISH",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "порц",
-        "productCategory": "Алкоголь"
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РїРѕСЂС†",
+        "productCategory": "РђР»РєРѕРіРѕР»СЊ"
     },
     {
         "id": "a8e12901-c4f1-4f14-a11b-621eb3612bdf",
         "parentId": "3545de99-38aa-45ab-a3a7-62194aa8907a",
         "num": "15785",
         "code": "70580",
-        "name": "Campari Bitter Aperitif бут.",
+        "name": "Campari Bitter Aperitif Р±СѓС‚.",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "шт",
-        "productCategory": "Алкоголь"
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "С€С‚",
+        "productCategory": "РђР»РєРѕРіРѕР»СЊ"
     },
     {
         "id": "2a90ba89-302e-4aee-ab82-cbf3135ed207",
@@ -83,8 +83,8 @@
         "code": "70570",
         "name": "Red Bull 0,449",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "шт",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -94,8 +94,8 @@
         "code": "133",
         "name": "Red bull 0,33",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "шт",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -105,19 +105,19 @@
         "code": "1020",
         "name": "Sprite",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "шт",
-        "productCategory": "коктейли"
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "С€С‚",
+        "productCategory": "РєРѕРєС‚РµР№Р»Рё"
     },
     {
         "id": "ac5564ca-da55-065b-0185-f45e8149a6dc",
         "parentId": "149ab114-c54b-41d0-836f-7efe715ec792",
         "num": "11063",
         "code": "73",
-        "name": "Абсент",
+        "name": "РђР±СЃРµРЅС‚",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -125,10 +125,10 @@
         "parentId": "71a1c187-73d0-4124-bfaf-7b24f1ada7d1",
         "num": "11174",
         "code": "205",
-        "name": "Авокадо",
+        "name": "РђРІРѕРєР°РґРѕ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -136,10 +136,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11159",
         "code": "189",
-        "name": "Аджиномото",
+        "name": "РђРґР¶РёРЅРѕРјРѕС‚Рѕ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -147,10 +147,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "11093",
         "code": "105",
-        "name": "Акентошан 12 лет",
+        "name": "РђРєРµРЅС‚РѕС€Р°РЅ 12 Р»РµС‚",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -158,10 +158,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "11083",
         "code": "95",
-        "name": "Акентошан ОАК",
+        "name": "РђРєРµРЅС‚РѕС€Р°РЅ РћРђРљ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -169,21 +169,21 @@
         "parentId": "c424313f-4aae-4baa-8e13-22846e9ef7ac",
         "num": "0025",
         "code": "70559",
-        "name": "Алкоголь",
+        "name": "РђР»РєРѕРіРѕР»СЊ",
         "productType": "None",
         "cookingPlaceType": "None",
         "mainUnit": "None",
-        "productCategory": "Алкоголь"
+        "productCategory": "РђР»РєРѕРіРѕР»СЊ"
     },
     {
         "id": "ac5564ca-da55-065b-0185-f45e8149a71c",
         "parentId": "82d1fc52-9cb7-dd86-017d-1dc4fd073c4c",
         "num": "15578",
         "code": "909",
-        "name": "Ананас свежий",
+        "name": "РђРЅР°РЅР°СЃ СЃРІРµР¶РёР№",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "кг",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -191,10 +191,10 @@
         "parentId": "82d1fc52-9cb7-dd86-017d-1dc4fd073c4c",
         "num": "11640",
         "code": "700",
-        "name": "Апельсин",
+        "name": "РђРїРµР»СЊСЃРёРЅ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -202,10 +202,10 @@
         "parentId": "82d1fc52-9cb7-dd86-017d-1dc4fd073c4c",
         "num": "11127",
         "code": "144",
-        "name": "Апельсины",
+        "name": "РђРїРµР»СЊСЃРёРЅС‹",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -213,10 +213,10 @@
         "parentId": "ef9dba79-ec3f-4811-b2d1-e8401710ba5f",
         "num": "15770",
         "code": "1115",
-        "name": "Арарат 3 звезды",
+        "name": "РђСЂР°СЂР°С‚ 3 Р·РІРµР·РґС‹",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -224,10 +224,10 @@
         "parentId": "ef9dba79-ec3f-4811-b2d1-e8401710ba5f",
         "num": "15771",
         "code": "1116",
-        "name": "Арарат 5 звезд",
+        "name": "РђСЂР°СЂР°С‚ 5 Р·РІРµР·Рґ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -235,10 +235,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11270",
         "code": "307",
-        "name": "Арахис лепестки",
+        "name": "РђСЂР°С…РёСЃ Р»РµРїРµСЃС‚РєРё",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -246,10 +246,10 @@
         "parentId": "71a1c187-73d0-4124-bfaf-7b24f1ada7d1",
         "num": "11676",
         "code": "736",
-        "name": "Базилик свежий",
+        "name": "Р‘Р°Р·РёР»РёРє СЃРІРµР¶РёР№",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -257,10 +257,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15479",
         "code": "805",
-        "name": "Бак 200л пластик",
+        "name": "Р‘Р°Рє 200Р» РїР»Р°СЃС‚РёРє",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -268,7 +268,7 @@
         "parentId": "7e27cc27-5dee-4db5-9047-e1db9f43f72c",
         "num": "0019",
         "code": "47",
-        "name": "Бакалея",
+        "name": "Р‘Р°РєР°Р»РµСЏ",
         "productType": "None",
         "cookingPlaceType": "None",
         "mainUnit": "None",
@@ -279,10 +279,10 @@
         "parentId": "edc219ae-20a5-4d83-a01d-1e68a0e28abb",
         "num": "11069",
         "code": "81",
-        "name": "Бакарди Аньехо 4 года",
+        "name": "Р‘Р°РєР°СЂРґРё РђРЅСЊРµС…Рѕ 4 РіРѕРґР°",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -290,10 +290,10 @@
         "parentId": "edc219ae-20a5-4d83-a01d-1e68a0e28abb",
         "num": "11070",
         "code": "82",
-        "name": "Бакарди Резерва 8 лет",
+        "name": "Р‘Р°РєР°СЂРґРё Р РµР·РµСЂРІР° 8 Р»РµС‚",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -301,10 +301,10 @@
         "parentId": "71a1c187-73d0-4124-bfaf-7b24f1ada7d1",
         "num": "11246",
         "code": "281",
-        "name": "Баклажан",
+        "name": "Р‘Р°РєР»Р°Р¶Р°РЅ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -312,10 +312,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15741",
         "code": "1085",
-        "name": "Баллоны для сифона",
+        "name": "Р‘Р°Р»Р»РѕРЅС‹ РґР»СЏ СЃРёС„РѕРЅР°",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -323,18 +323,18 @@
         "parentId": "82d1fc52-9cb7-dd86-017d-1dc4fd073c4c",
         "num": "00105",
         "code": "32",
-        "name": "Банан",
+        "name": "Р‘Р°РЅР°РЅ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
-        "productCategory": "Фрукты"
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
+        "productCategory": "Р¤СЂСѓРєС‚С‹"
     },
     {
         "id": "c424313f-4aae-4baa-8e13-22846e9ef7ac",
         "parentId": "None",
         "num": "0035",
         "code": "70568",
-        "name": "Бар",
+        "name": "Р‘Р°СЂ",
         "productType": "None",
         "cookingPlaceType": "None",
         "mainUnit": "None",
@@ -345,10 +345,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "15537",
         "code": "867",
-        "name": "Белок яичный",
+        "name": "Р‘РµР»РѕРє СЏРёС‡РЅС‹Р№",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -356,21 +356,21 @@
         "parentId": "e41fcf31-6f41-46e8-a05b-25abbf9844ef",
         "num": "0039",
         "code": "70573",
-        "name": "Биттеры/Ликеры",
+        "name": "Р‘РёС‚С‚РµСЂС‹/Р›РёРєРµСЂС‹",
         "productType": "None",
         "cookingPlaceType": "None",
         "mainUnit": "None",
-        "productCategory": "Алкоголь"
+        "productCategory": "РђР»РєРѕРіРѕР»СЊ"
     },
     {
         "id": "ac5564ca-da55-065b-0185-f45e8149a872",
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15697",
         "code": "1039",
-        "name": "Бокал для бренди 398 мл",
+        "name": "Р‘РѕРєР°Р» РґР»СЏ Р±СЂРµРЅРґРё 398 РјР»",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -378,10 +378,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15614",
         "code": "952",
-        "name": "Бокал для вина 0,54л",
+        "name": "Р‘РѕРєР°Р» РґР»СЏ РІРёРЅР° 0,54Р»",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -389,10 +389,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15752",
         "code": "1097",
-        "name": "Бокал под Маргариту 250мл",
+        "name": "Р‘РѕРєР°Р» РїРѕРґ РњР°СЂРіР°СЂРёС‚Сѓ 250РјР»",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -400,10 +400,10 @@
         "parentId": "20ff6be8-552c-4b45-b6b8-6b54730bc9ee",
         "num": "15486",
         "code": "813",
-        "name": "Бомбей Брамбл",
+        "name": "Р‘РѕРјР±РµР№ Р‘СЂР°РјР±Р»",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -411,10 +411,10 @@
         "parentId": "71a1c187-73d0-4124-bfaf-7b24f1ada7d1",
         "num": "11666",
         "code": "726",
-        "name": "Брокколи",
+        "name": "Р‘СЂРѕРєРєРѕР»Рё",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -422,10 +422,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11212",
         "code": "245",
-        "name": "Бумага рисовая",
+        "name": "Р‘СѓРјР°РіР° СЂРёСЃРѕРІР°СЏ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "шт",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -433,7 +433,7 @@
         "parentId": "7e27cc27-5dee-4db5-9047-e1db9f43f72c",
         "num": "0027",
         "code": "85",
-        "name": "Бутерброды",
+        "name": "Р‘СѓС‚РµСЂР±СЂРѕРґС‹",
         "productType": "None",
         "cookingPlaceType": "None",
         "mainUnit": "None",
@@ -444,10 +444,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15613",
         "code": "951",
-        "name": "Бутылка для соуса",
+        "name": "Р‘СѓС‚С‹Р»РєР° РґР»СЏ СЃРѕСѓСЃР°",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -455,10 +455,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15753",
         "code": "1098",
-        "name": "Бутылка для флейринга абс-пластик 450",
+        "name": "Р‘СѓС‚С‹Р»РєР° РґР»СЏ С„Р»РµР№СЂРёРЅРіР° Р°Р±СЃ-РїР»Р°СЃС‚РёРє 450",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -466,10 +466,10 @@
         "parentId": "43da42a4-1f7d-4e2a-95af-f4df1d042cf7",
         "num": "15619",
         "code": "957",
-        "name": "ВИно Эль Паро Карменер кр сух",
+        "name": "Р’РРЅРѕ Р­Р»СЊ РџР°СЂРѕ РљР°СЂРјРµРЅРµСЂ РєСЂ СЃСѓС…",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -477,10 +477,10 @@
         "parentId": "523982cd-21e2-4250-b2fc-4b1a915eccf1",
         "num": "15540",
         "code": "870",
-        "name": "ВОдка Писко Трес Ерес",
+        "name": "Р’РћРґРєР° РџРёСЃРєРѕ РўСЂРµСЃ Р•СЂРµСЃ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -488,10 +488,10 @@
         "parentId": "71a1c187-73d0-4124-bfaf-7b24f1ada7d1",
         "num": "11154",
         "code": "181",
-        "name": "Вакаме",
+        "name": "Р’Р°РєР°РјРµ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -499,10 +499,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11145",
         "code": "172",
-        "name": "Васаби",
+        "name": "Р’Р°СЃР°Р±Рё",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -510,10 +510,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15494",
         "code": "821",
-        "name": "Вафельное полотно 60м",
+        "name": "Р’Р°С„РµР»СЊРЅРѕРµ РїРѕР»РѕС‚РЅРѕ 60Рј",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -521,10 +521,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15720",
         "code": "1064",
-        "name": "Веник-совок",
+        "name": "Р’РµРЅРёРє-СЃРѕРІРѕРє",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -532,10 +532,10 @@
         "parentId": "43da42a4-1f7d-4e2a-95af-f4df1d042cf7",
         "num": "11066",
         "code": "77",
-        "name": "Вермут в ассортименте",
+        "name": "Р’РµСЂРјСѓС‚ РІ Р°СЃСЃРѕСЂС‚РёРјРµРЅС‚Рµ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -543,10 +543,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15755",
         "code": "1100",
-        "name": "Вилка одноразовая",
+        "name": "Р’РёР»РєР° РѕРґРЅРѕСЂР°Р·РѕРІР°СЏ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "шт",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -554,21 +554,21 @@
         "parentId": "e41fcf31-6f41-46e8-a05b-25abbf9844ef",
         "num": "0044",
         "code": "70578",
-        "name": "Вина/Игристые/Вермут",
+        "name": "Р’РёРЅР°/РРіСЂРёСЃС‚С‹Рµ/Р’РµСЂРјСѓС‚",
         "productType": "None",
         "cookingPlaceType": "None",
         "mainUnit": "None",
-        "productCategory": "Алкоголь"
+        "productCategory": "РђР»РєРѕРіРѕР»СЊ"
     },
     {
         "id": "ac5564ca-da55-065b-0185-f45e8149a6af",
         "parentId": "43da42a4-1f7d-4e2a-95af-f4df1d042cf7",
         "num": "11061",
         "code": "70",
-        "name": "Вино Игристое в ассортименте",
+        "name": "Р’РёРЅРѕ РРіСЂРёСЃС‚РѕРµ РІ Р°СЃСЃРѕСЂС‚РёРјРµРЅС‚Рµ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -576,10 +576,10 @@
         "parentId": "43da42a4-1f7d-4e2a-95af-f4df1d042cf7",
         "num": "15684",
         "code": "1024",
-        "name": "Вино Сантьяго бел псл",
+        "name": "Р’РёРЅРѕ РЎР°РЅС‚СЊСЏРіРѕ Р±РµР» РїСЃР»",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -587,10 +587,10 @@
         "parentId": "43da42a4-1f7d-4e2a-95af-f4df1d042cf7",
         "num": "15685",
         "code": "1025",
-        "name": "Вино Сантьяго кр псл",
+        "name": "Р’РёРЅРѕ РЎР°РЅС‚СЊСЏРіРѕ РєСЂ РїСЃР»",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -598,10 +598,10 @@
         "parentId": "43da42a4-1f7d-4e2a-95af-f4df1d042cf7",
         "num": "15618",
         "code": "956",
-        "name": "Вино Эль Паро Каберне Совиньен Мерло кр сух",
+        "name": "Р’РёРЅРѕ Р­Р»СЊ РџР°СЂРѕ РљР°Р±РµСЂРЅРµ РЎРѕРІРёРЅСЊРµРЅ РњРµСЂР»Рѕ РєСЂ СЃСѓС…",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -609,10 +609,10 @@
         "parentId": "43da42a4-1f7d-4e2a-95af-f4df1d042cf7",
         "num": "15620",
         "code": "958",
-        "name": "Вино Эль Паро Совиньен Блан бел сух/ Эппликант Совиньен Блан",
+        "name": "Р’РёРЅРѕ Р­Р»СЊ РџР°СЂРѕ РЎРѕРІРёРЅСЊРµРЅ Р‘Р»Р°РЅ Р±РµР» СЃСѓС…/ Р­РїРїР»РёРєР°РЅС‚ РЎРѕРІРёРЅСЊРµРЅ Р‘Р»Р°РЅ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -620,10 +620,10 @@
         "parentId": "43da42a4-1f7d-4e2a-95af-f4df1d042cf7",
         "num": "15721",
         "code": "1065",
-        "name": "Вино белое в ассортименте",
+        "name": "Р’РёРЅРѕ Р±РµР»РѕРµ РІ Р°СЃСЃРѕСЂС‚РёРјРµРЅС‚Рµ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -631,10 +631,10 @@
         "parentId": "43da42a4-1f7d-4e2a-95af-f4df1d042cf7",
         "num": "11100",
         "code": "112",
-        "name": "Вино красное сухое",
+        "name": "Р’РёРЅРѕ РєСЂР°СЃРЅРѕРµ СЃСѓС…РѕРµ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -642,21 +642,21 @@
         "parentId": "149ab114-c54b-41d0-836f-7efe715ec792",
         "num": "0038",
         "code": "70572",
-        "name": "Виски",
+        "name": "Р’РёСЃРєРё",
         "productType": "None",
         "cookingPlaceType": "None",
         "mainUnit": "None",
-        "productCategory": "Алкоголь"
+        "productCategory": "РђР»РєРѕРіРѕР»СЊ"
     },
     {
         "id": "ac5564ca-da55-065b-0185-f45e8149a949",
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "15779",
         "code": "1124",
-        "name": "Виски Джим бим",
+        "name": "Р’РёСЃРєРё Р”Р¶РёРј Р±РёРј",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -664,10 +664,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "15767",
         "code": "1112",
-        "name": "Виски Джонни Уокер Блэк Лейбл",
+        "name": "Р’РёСЃРєРё Р”Р¶РѕРЅРЅРё РЈРѕРєРµСЂ Р‘Р»СЌРє Р›РµР№Р±Р»",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -675,10 +675,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "15768",
         "code": "1113",
-        "name": "Виски Джонни Уокер Ред Лейбл",
+        "name": "Р’РёСЃРєРё Р”Р¶РѕРЅРЅРё РЈРѕРєРµСЂ Р РµРґ Р›РµР№Р±Р»",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -686,10 +686,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "11072",
         "code": "84",
-        "name": "Виски Дюарс 12 лет",
+        "name": "Р’РёСЃРєРё Р”СЋР°СЂСЃ 12 Р»РµС‚",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -697,10 +697,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "15774",
         "code": "1119",
-        "name": "Виски Дюарс 15 лет Монарх",
+        "name": "Р’РёСЃРєРё Р”СЋР°СЂСЃ 15 Р»РµС‚ РњРѕРЅР°СЂС…",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -708,10 +708,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "11073",
         "code": "85",
-        "name": "Виски Дюарс 8 лет",
+        "name": "Р’РёСЃРєРё Р”СЋР°СЂСЃ 8 Р»РµС‚",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -719,10 +719,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "11076",
         "code": "88",
-        "name": "Виски Мэйкерс Марк",
+        "name": "Р’РёСЃРєРё РњСЌР№РєРµСЂСЃ РњР°СЂРє",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -730,10 +730,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "11095",
         "code": "107",
-        "name": "Виски Сантори Токи",
+        "name": "Р’РёСЃРєРё РЎР°РЅС‚РѕСЂРё РўРѕРєРё",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -741,10 +741,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "15481",
         "code": "807",
-        "name": "Виски Смоки Джо Айла",
+        "name": "Р’РёСЃРєРё РЎРјРѕРєРё Р”Р¶Рѕ РђР№Р»Р°",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -752,10 +752,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "11079",
         "code": "91",
-        "name": "Виски Фэймос грауз",
+        "name": "Р’РёСЃРєРё Р¤СЌР№РјРѕСЃ РіСЂР°СѓР·",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -763,10 +763,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "11497",
         "code": "549",
-        "name": "Виски Хакушу",
+        "name": "Р’РёСЃРєРё РҐР°РєСѓС€Сѓ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -774,10 +774,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "11486",
         "code": "538",
-        "name": "Виски Хибики Джапанис Хармани",
+        "name": "Р’РёСЃРєРё РҐРёР±РёРєРё Р”Р¶Р°РїР°РЅРёСЃ РҐР°СЂРјР°РЅРё",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -785,10 +785,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "11487",
         "code": "539",
-        "name": "Виски Ямазаки Дистеллепс Резерв",
+        "name": "Р’РёСЃРєРё РЇРјР°Р·Р°РєРё Р”РёСЃС‚РµР»Р»РµРїСЃ Р РµР·РµСЂРІ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -796,10 +796,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15708",
         "code": "1051",
-        "name": "Влагозащитная кнопка вызова",
+        "name": "Р’Р»Р°РіРѕР·Р°С‰РёС‚РЅР°СЏ РєРЅРѕРїРєР° РІС‹Р·РѕРІР°",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -807,10 +807,10 @@
         "parentId": "c424313f-4aae-4baa-8e13-22846e9ef7ac",
         "num": "15782",
         "code": "70564",
-        "name": "Вода Бон Аква 0,33мл",
+        "name": "Р’РѕРґР° Р‘РѕРЅ РђРєРІР° 0,33РјР»",
         "productType": "GOODS",
-        "cookingPlaceType": "Кофе",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РљРѕС„Рµ",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -818,10 +818,10 @@
         "parentId": "c424313f-4aae-4baa-8e13-22846e9ef7ac",
         "num": "00030",
         "code": "26",
-        "name": "Вода Бон Аква 0.5 мл",
+        "name": "Р’РѕРґР° Р‘РѕРЅ РђРєРІР° 0.5 РјР»",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "шт",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -829,21 +829,21 @@
         "parentId": "149ab114-c54b-41d0-836f-7efe715ec792",
         "num": "0030",
         "code": "70560",
-        "name": "Водка",
+        "name": "Р’РѕРґРєР°",
         "productType": "None",
         "cookingPlaceType": "None",
         "mainUnit": "None",
-        "productCategory": "Водка"
+        "productCategory": "Р’РѕРґРєР°"
     },
     {
         "id": "ac5564ca-da55-065b-0185-f45e8149a946",
         "parentId": "523982cd-21e2-4250-b2fc-4b1a915eccf1",
         "num": "15776",
         "code": "1121",
-        "name": "Водка Абсолют Ваниль",
+        "name": "Р’РѕРґРєР° РђР±СЃРѕР»СЋС‚ Р’Р°РЅРёР»СЊ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -851,10 +851,10 @@
         "parentId": "523982cd-21e2-4250-b2fc-4b1a915eccf1",
         "num": "15777",
         "code": "1122",
-        "name": "Водка Абсолют Груша",
+        "name": "Р’РѕРґРєР° РђР±СЃРѕР»СЋС‚ Р“СЂСѓС€Р°",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -862,10 +862,10 @@
         "parentId": "523982cd-21e2-4250-b2fc-4b1a915eccf1",
         "num": "15778",
         "code": "1123",
-        "name": "Водка Абсолют Смородина",
+        "name": "Р’РѕРґРєР° РђР±СЃРѕР»СЋС‚ РЎРјРѕСЂРѕРґРёРЅР°",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -873,10 +873,10 @@
         "parentId": "523982cd-21e2-4250-b2fc-4b1a915eccf1",
         "num": "11119",
         "code": "134",
-        "name": "Водка Белуга Алюр",
+        "name": "Р’РѕРґРєР° Р‘РµР»СѓРіР° РђР»СЋСЂ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -884,10 +884,10 @@
         "parentId": "523982cd-21e2-4250-b2fc-4b1a915eccf1",
         "num": "11120",
         "code": "135",
-        "name": "Водка Белуга Голд",
+        "name": "Р’РѕРґРєР° Р‘РµР»СѓРіР° Р“РѕР»Рґ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -895,10 +895,10 @@
         "parentId": "523982cd-21e2-4250-b2fc-4b1a915eccf1",
         "num": "11121",
         "code": "136",
-        "name": "Водка Белуга Нобл",
+        "name": "Р’РѕРґРєР° Р‘РµР»СѓРіР° РќРѕР±Р»",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -906,10 +906,10 @@
         "parentId": "523982cd-21e2-4250-b2fc-4b1a915eccf1",
         "num": "11122",
         "code": "137",
-        "name": "Водка Белуга Трансатлантик",
+        "name": "Р’РѕРґРєР° Р‘РµР»СѓРіР° РўСЂР°РЅСЃР°С‚Р»Р°РЅС‚РёРє",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -917,10 +917,10 @@
         "parentId": "523982cd-21e2-4250-b2fc-4b1a915eccf1",
         "num": "15504",
         "code": "831",
-        "name": "Водка Данска",
+        "name": "Р’РѕРґРєР° Р”Р°РЅСЃРєР°",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -928,10 +928,10 @@
         "parentId": "523982cd-21e2-4250-b2fc-4b1a915eccf1",
         "num": "15477",
         "code": "803",
-        "name": "Водка Кремлин",
+        "name": "Р’РѕРґРєР° РљСЂРµРјР»РёРЅ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -939,10 +939,10 @@
         "parentId": "523982cd-21e2-4250-b2fc-4b1a915eccf1",
         "num": "15505",
         "code": "832",
-        "name": "Водка Онегин",
+        "name": "Р’РѕРґРєР° РћРЅРµРіРёРЅ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -950,10 +950,10 @@
         "parentId": "523982cd-21e2-4250-b2fc-4b1a915eccf1",
         "num": "15503",
         "code": "830",
-        "name": "Водка ФИНЛЯНДИЯ",
+        "name": "Р’РѕРґРєР° Р¤РРќР›РЇРќР”РРЇ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -961,10 +961,10 @@
         "parentId": "523982cd-21e2-4250-b2fc-4b1a915eccf1",
         "num": "11071",
         "code": "83",
-        "name": "Водка Хаус",
+        "name": "Р’РѕРґРєР° РҐР°СѓСЃ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -972,10 +972,10 @@
         "parentId": "523982cd-21e2-4250-b2fc-4b1a915eccf1",
         "num": "15740",
         "code": "1084",
-        "name": "Водка Чайковский",
+        "name": "Р’РѕРґРєР° Р§Р°Р№РєРѕРІСЃРєРёР№",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -983,10 +983,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15603",
         "code": "941",
-        "name": "Воронка пластик",
+        "name": "Р’РѕСЂРѕРЅРєР° РїР»Р°СЃС‚РёРє",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -994,10 +994,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15583",
         "code": "914",
-        "name": "Гастроемкость сталь нерж",
+        "name": "Р“Р°СЃС‚СЂРѕРµРјРєРѕСЃС‚СЊ СЃС‚Р°Р»СЊ РЅРµСЂР¶",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -1005,10 +1005,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15719",
         "code": "1063",
-        "name": "Гейзер металл",
+        "name": "Р“РµР№Р·РµСЂ РјРµС‚Р°Р»Р»",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -1016,10 +1016,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15539",
         "code": "869",
-        "name": "Гейзер на пласт основе",
+        "name": "Р“РµР№Р·РµСЂ РЅР° РїР»Р°СЃС‚ РѕСЃРЅРѕРІРµ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -1027,10 +1027,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11638",
         "code": "698",
-        "name": "Горчица зернистая",
+        "name": "Р“РѕСЂС‡РёС†Р° Р·РµСЂРЅРёСЃС‚Р°СЏ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1038,10 +1038,10 @@
         "parentId": "28609b7e-458d-4411-9af6-3dea87205452",
         "num": "15557",
         "code": "888",
-        "name": "Гранд Мескаль Ла Эскондида",
+        "name": "Р“СЂР°РЅРґ РњРµСЃРєР°Р»СЊ Р›Р° Р­СЃРєРѕРЅРґРёРґР°",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -1049,10 +1049,10 @@
         "parentId": "a466d30d-9854-490d-a67a-ac153267fa3f",
         "num": "11146",
         "code": "173",
-        "name": "Гребешок с/м",
+        "name": "Р“СЂРµР±РµС€РѕРє СЃ/Рј",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1060,10 +1060,10 @@
         "parentId": "523982cd-21e2-4250-b2fc-4b1a915eccf1",
         "num": "11123",
         "code": "138",
-        "name": "Грей гуз",
+        "name": "Р“СЂРµР№ РіСѓР·",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -1071,10 +1071,10 @@
         "parentId": "82d1fc52-9cb7-dd86-017d-1dc4fd073c4c",
         "num": "11180",
         "code": "212",
-        "name": "Грейпфрут",
+        "name": "Р“СЂРµР№РїС„СЂСѓС‚",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1082,10 +1082,10 @@
         "parentId": "71a1c187-73d0-4124-bfaf-7b24f1ada7d1",
         "num": "11678",
         "code": "738",
-        "name": "Грибы эноки",
+        "name": "Р“СЂРёР±С‹ СЌРЅРѕРєРё",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1093,21 +1093,21 @@
         "parentId": "82d1fc52-9cb7-dd86-017d-1dc4fd073c4c",
         "num": "00121",
         "code": "56",
-        "name": "Груша",
+        "name": "Р“СЂСѓС€Р°",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
-        "productCategory": "Фрукты"
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
+        "productCategory": "Р¤СЂСѓРєС‚С‹"
     },
     {
         "id": "ac5564ca-da55-065b-0185-f45e8149a72b",
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "11473",
         "code": "525",
-        "name": "Губка д/посуды",
+        "name": "Р“СѓР±РєР° Рґ/РїРѕСЃСѓРґС‹",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "шт",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -1115,10 +1115,10 @@
         "parentId": "71a1c187-73d0-4124-bfaf-7b24f1ada7d1",
         "num": "11164",
         "code": "195",
-        "name": "Дайкон",
+        "name": "Р”Р°Р№РєРѕРЅ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1126,10 +1126,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "11086",
         "code": "98",
-        "name": "Джек Дэнниелс Ханни",
+        "name": "Р”Р¶РµРє Р”СЌРЅРЅРёРµР»СЃ РҐР°РЅРЅРё",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -1137,10 +1137,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "11077",
         "code": "89",
-        "name": "Джек дэниелс",
+        "name": "Р”Р¶РµРє РґСЌРЅРёРµР»СЃ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -1148,10 +1148,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15598",
         "code": "932",
-        "name": "Джиггер с делениями сталь нерж",
+        "name": "Р”Р¶РёРіРіРµСЂ СЃ РґРµР»РµРЅРёСЏРјРё СЃС‚Р°Р»СЊ РЅРµСЂР¶",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -1159,10 +1159,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "11087",
         "code": "99",
-        "name": "Джим Бим Ред",
+        "name": "Р”Р¶РёРј Р‘РёРј Р РµРґ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -1170,10 +1170,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "11084",
         "code": "96",
-        "name": "Джим Бим Ханни",
+        "name": "Р”Р¶РёРј Р‘РёРј РҐР°РЅРЅРё",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -1181,10 +1181,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "11088",
         "code": "100",
-        "name": "Джим бим Дабл Оак",
+        "name": "Р”Р¶РёРј Р±РёРј Р”Р°Р±Р» РћР°Рє",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -1192,10 +1192,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "15737",
         "code": "1081",
-        "name": "Джим бим Пич",
+        "name": "Р”Р¶РёРј Р±РёРј РџРёС‡",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -1203,10 +1203,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "11078",
         "code": "90",
-        "name": "Джим бим рай",
+        "name": "Р”Р¶РёРј Р±РёРј СЂР°Р№",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -1214,10 +1214,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "11085",
         "code": "97",
-        "name": "Джим бим эппл",
+        "name": "Р”Р¶РёРј Р±РёРј СЌРїРїР»",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -1225,21 +1225,21 @@
         "parentId": "149ab114-c54b-41d0-836f-7efe715ec792",
         "num": "0043",
         "code": "70577",
-        "name": "Джин",
+        "name": "Р”Р¶РёРЅ",
         "productType": "None",
         "cookingPlaceType": "None",
         "mainUnit": "None",
-        "productCategory": "Алкоголь"
+        "productCategory": "РђР»РєРѕРіРѕР»СЊ"
     },
     {
         "id": "ac5564ca-da55-065b-0185-f45e8149a93f",
         "parentId": "20ff6be8-552c-4b45-b6b8-6b54730bc9ee",
         "num": "15769",
         "code": "1114",
-        "name": "Джин Танкерей Лондон драй",
+        "name": "Р”Р¶РёРЅ РўР°РЅРєРµСЂРµР№ Р›РѕРЅРґРѕРЅ РґСЂР°Р№",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -1247,32 +1247,43 @@
         "parentId": "20ff6be8-552c-4b45-b6b8-6b54730bc9ee",
         "num": "11060",
         "code": "69",
-        "name": "Джин хаус",
+        "name": "Р”Р¶РёРЅ С…Р°СѓСЃ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
+    },
+    {
+        "id": "84211bb4-1b10-4864-9c87-207589fb376b",
+        "parentId": "067a6904-311d-4015-addd-d46b66f255fb",
+        "num": "15792",
+        "code": "70587",
+        "name": "Р”РѕСЃС‚Р°РІРєР°",
+        "productType": "SERVICE",
+        "cookingPlaceType": "РЈСЃР»СѓРіРё",
+        "mainUnit": "С€С‚",
+        "productCategory": "РЎРџРђ"
     },
     {
         "id": "94566bd4-7159-4733-87dd-8acbc3abd7e5",
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "00109",
         "code": "37",
-        "name": "Дрожжи",
+        "name": "Р”СЂРѕР¶Р¶Рё",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "кг",
-        "productCategory": "Пицца"
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "РєРі",
+        "productCategory": "РџРёС†С†Р°"
     },
     {
         "id": "986f896c-bd77-42af-8ced-b937b9a5f940",
         "parentId": "None",
         "num": "65",
         "code": null,
-        "name": "Дрожжи пекарские МультиПовар",
+        "name": "Р”СЂРѕР¶Р¶Рё РїРµРєР°СЂСЃРєРёРµ РњСѓР»СЊС‚РёРџРѕРІР°СЂ",
         "productType": "OUTER",
         "cookingPlaceType": "None",
-        "mainUnit": "кг",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1280,10 +1291,10 @@
         "parentId": "None",
         "num": "487",
         "code": null,
-        "name": "Изделие Хлебобулочное 12",
+        "name": "РР·РґРµР»РёРµ РҐР»РµР±РѕР±СѓР»РѕС‡РЅРѕРµ 12",
         "productType": "OUTER",
         "cookingPlaceType": "None",
-        "mainUnit": "кг",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1291,10 +1302,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15689",
         "code": "1029",
-        "name": "Икорница стекло 40 мл",
+        "name": "РРєРѕСЂРЅРёС†Р° СЃС‚РµРєР»Рѕ 40 РјР»",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -1302,10 +1313,10 @@
         "parentId": "a466d30d-9854-490d-a67a-ac153267fa3f",
         "num": "11196",
         "code": "229",
-        "name": "Икра горбуши",
+        "name": "РРєСЂР° РіРѕСЂР±СѓС€Рё",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1313,10 +1324,10 @@
         "parentId": "a466d30d-9854-490d-a67a-ac153267fa3f",
         "num": "11141",
         "code": "166",
-        "name": "Икра масаго в ассортименте",
+        "name": "РРєСЂР° РјР°СЃР°РіРѕ РІ Р°СЃСЃРѕСЂС‚РёРјРµРЅС‚Рµ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1324,10 +1335,10 @@
         "parentId": "71a1c187-73d0-4124-bfaf-7b24f1ada7d1",
         "num": "11210",
         "code": "243",
-        "name": "Имбирь белый маринованный",
+        "name": "РРјР±РёСЂСЊ Р±РµР»С‹Р№ РјР°СЂРёРЅРѕРІР°РЅРЅС‹Р№",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1335,10 +1346,10 @@
         "parentId": "71a1c187-73d0-4124-bfaf-7b24f1ada7d1",
         "num": "11109",
         "code": "124",
-        "name": "Имбирь корень",
+        "name": "РРјР±РёСЂСЊ РєРѕСЂРµРЅСЊ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1346,10 +1357,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15722",
         "code": "1066",
-        "name": "Инсектицидные средства",
+        "name": "РРЅСЃРµРєС‚РёС†РёРґРЅС‹Рµ СЃСЂРµРґСЃС‚РІР°",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -1357,10 +1368,10 @@
         "parentId": "08af49f8-b00b-4023-858b-144f8f6cc4a8",
         "num": "00134",
         "code": "67",
-        "name": "Йогурт",
+        "name": "Р™РѕРіСѓСЂС‚",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1368,10 +1379,10 @@
         "parentId": "a466d30d-9854-490d-a67a-ac153267fa3f",
         "num": "11209",
         "code": "242",
-        "name": "Кальмар",
+        "name": "РљР°Р»СЊРјР°СЂ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1379,10 +1390,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "11467",
         "code": "519",
-        "name": "Кассовая лента 57*40",
+        "name": "РљР°СЃСЃРѕРІР°СЏ Р»РµРЅС‚Р° 57*40",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "шт",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -1390,10 +1401,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "11442",
         "code": "494",
-        "name": "Кассовая лента 80*70",
+        "name": "РљР°СЃСЃРѕРІР°СЏ Р»РµРЅС‚Р° 80*70",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "шт",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -1401,10 +1412,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11187",
         "code": "220",
-        "name": "Кешью",
+        "name": "РљРµС€СЊСЋ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1412,10 +1423,10 @@
         "parentId": "71a1c187-73d0-4124-bfaf-7b24f1ada7d1",
         "num": "11677",
         "code": "737",
-        "name": "Кинза",
+        "name": "РљРёРЅР·Р°",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1423,10 +1434,10 @@
         "parentId": "71a1c187-73d0-4124-bfaf-7b24f1ada7d1",
         "num": "11648",
         "code": "708",
-        "name": "Кинза П/Ф",
+        "name": "РљРёРЅР·Р° Рџ/Р¤",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1434,10 +1445,10 @@
         "parentId": "c424313f-4aae-4baa-8e13-22846e9ef7ac",
         "num": "00024",
         "code": "20",
-        "name": "Кола",
+        "name": "РљРѕР»Р°",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "шт",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -1445,7 +1456,7 @@
         "parentId": "7e27cc27-5dee-4db5-9047-e1db9f43f72c",
         "num": "0020",
         "code": "48",
-        "name": "Консервированная продукция",
+        "name": "РљРѕРЅСЃРµСЂРІРёСЂРѕРІР°РЅРЅР°СЏ РїСЂРѕРґСѓРєС†РёСЏ",
         "productType": "None",
         "cookingPlaceType": "None",
         "mainUnit": "None",
@@ -1456,18 +1467,18 @@
         "parentId": "149ab114-c54b-41d0-836f-7efe715ec792",
         "num": "0042",
         "code": "70576",
-        "name": "Коньяк",
+        "name": "РљРѕРЅСЊСЏРє",
         "productType": "None",
         "cookingPlaceType": "None",
         "mainUnit": "None",
-        "productCategory": "Алкоголь"
+        "productCategory": "РђР»РєРѕРіРѕР»СЊ"
     },
     {
         "id": "b6bd9aba-9bff-4a09-9db9-6ddccf30e32c",
         "parentId": "c424313f-4aae-4baa-8e13-22846e9ef7ac",
         "num": "0002",
         "code": "3",
-        "name": "Кофе",
+        "name": "РљРѕС„Рµ",
         "productType": "None",
         "cookingPlaceType": "None",
         "mainUnit": "None",
@@ -1478,10 +1489,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "00003",
         "code": "4",
-        "name": "Кофе зерновой",
+        "name": "РљРѕС„Рµ Р·РµСЂРЅРѕРІРѕР№",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1489,10 +1500,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11461",
         "code": "513",
-        "name": "Кофе растворимый",
+        "name": "РљРѕС„Рµ СЂР°СЃС‚РІРѕСЂРёРјС‹Р№",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1500,10 +1511,10 @@
         "parentId": "a466d30d-9854-490d-a67a-ac153267fa3f",
         "num": "11415",
         "code": "462",
-        "name": "Краб салатный стригун",
+        "name": "РљСЂР°Р± СЃР°Р»Р°С‚РЅС‹Р№ СЃС‚СЂРёРіСѓРЅ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1511,10 +1522,10 @@
         "parentId": "a466d30d-9854-490d-a67a-ac153267fa3f",
         "num": "11213",
         "code": "246",
-        "name": "Креветка тигровая 16/20",
+        "name": "РљСЂРµРІРµС‚РєР° С‚РёРіСЂРѕРІР°СЏ 16/20",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1522,21 +1533,21 @@
         "parentId": "e41fcf31-6f41-46e8-a05b-25abbf9844ef",
         "num": "0037",
         "code": "70571",
-        "name": "Крепкий алкоголь",
+        "name": "РљСЂРµРїРєРёР№ Р°Р»РєРѕРіРѕР»СЊ",
         "productType": "None",
         "cookingPlaceType": "None",
         "mainUnit": "None",
-        "productCategory": "Алкоголь"
+        "productCategory": "РђР»РєРѕРіРѕР»СЊ"
     },
     {
         "id": "ac5564ca-da55-065b-0185-f45e8149a728",
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15541",
         "code": "871",
-        "name": "Крышка для стакана",
+        "name": "РљСЂС‹С€РєР° РґР»СЏ СЃС‚Р°РєР°РЅР°",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -1544,10 +1555,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15617",
         "code": "955",
-        "name": "Крышка купол",
+        "name": "РљСЂС‹С€РєР° РєСѓРїРѕР»",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -1555,10 +1566,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11185",
         "code": "218",
-        "name": "Кунжут белый",
+        "name": "РљСѓРЅР¶СѓС‚ Р±РµР»С‹Р№",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1566,10 +1577,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11186",
         "code": "219",
-        "name": "Кунжут черный",
+        "name": "РљСѓРЅР¶СѓС‚ С‡РµСЂРЅС‹Р№",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1577,10 +1588,10 @@
         "parentId": "ef9dba79-ec3f-4811-b2d1-e8401710ba5f",
         "num": "15492",
         "code": "819",
-        "name": "Курвуазье ВС",
+        "name": "РљСѓСЂРІСѓР°Р·СЊРµ Р’РЎ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -1588,10 +1599,10 @@
         "parentId": "615c14c7-3713-46eb-b284-a6e994dd0470",
         "num": "00116",
         "code": "51",
-        "name": "Курица",
+        "name": "РљСѓСЂРёС†Р°",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "кг",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1599,10 +1610,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11234",
         "code": "268",
-        "name": "Куркура молотая",
+        "name": "РљСѓСЂРєСѓСЂР° РјРѕР»РѕС‚Р°СЏ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1610,7 +1621,7 @@
         "parentId": "None",
         "num": "0036",
         "code": "70569",
-        "name": "Кухня",
+        "name": "РљСѓС…РЅСЏ",
         "productType": "None",
         "cookingPlaceType": "None",
         "mainUnit": "None",
@@ -1621,10 +1632,10 @@
         "parentId": "82d1fc52-9cb7-dd86-017d-1dc4fd073c4c",
         "num": "11128",
         "code": "145",
-        "name": "Лайм",
+        "name": "Р›Р°Р№Рј",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1632,10 +1643,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15615",
         "code": "953",
-        "name": "Ланч-бокс",
+        "name": "Р›Р°РЅС‡-Р±РѕРєСЃ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -1643,10 +1654,10 @@
         "parentId": "7d337dc4-fb71-4a47-b810-e0e28d4000a7",
         "num": "11305",
         "code": "344",
-        "name": "Лепешка",
+        "name": "Р›РµРїРµС€РєР°",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "шт",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -1654,21 +1665,21 @@
         "parentId": "3545de99-38aa-45ab-a3a7-62194aa8907a",
         "num": "15703",
         "code": "1046",
-        "name": "Ликер Ягермейстер",
+        "name": "Р›РёРєРµСЂ РЇРіРµСЂРјРµР№СЃС‚РµСЂ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
-        "productCategory": "миксы"
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
+        "productCategory": "РјРёРєСЃС‹"
     },
     {
         "id": "ac5564ca-da55-065b-0185-f45e8149a83b",
         "parentId": "3545de99-38aa-45ab-a3a7-62194aa8907a",
         "num": "15640",
         "code": "979",
-        "name": "Ликер десертный Аперитиво",
+        "name": "Р›РёРєРµСЂ РґРµСЃРµСЂС‚РЅС‹Р№ РђРїРµСЂРёС‚РёРІРѕ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -1676,10 +1687,10 @@
         "parentId": "3545de99-38aa-45ab-a3a7-62194aa8907a",
         "num": "15493",
         "code": "820",
-        "name": "Ликёр DOM Benedictine 0.7 л",
+        "name": "Р›РёРєС‘СЂ DOM Benedictine 0.7 Р»",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "шт",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -1687,21 +1698,21 @@
         "parentId": "3545de99-38aa-45ab-a3a7-62194aa8907a",
         "num": "15787",
         "code": "70582",
-        "name": "Ликёр DOM Benedictine 100гр",
+        "name": "Р›РёРєС‘СЂ DOM Benedictine 100РіСЂ",
         "productType": "DISH",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "порц",
-        "productCategory": "Алкоголь"
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РїРѕСЂС†",
+        "productCategory": "РђР»РєРѕРіРѕР»СЊ"
     },
     {
         "id": "ac5564ca-da55-065b-0185-f45e8149a817",
         "parentId": "82d1fc52-9cb7-dd86-017d-1dc4fd073c4c",
         "num": "11167",
         "code": "198",
-        "name": "Лимон",
+        "name": "Р›РёРјРѕРЅ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1709,10 +1720,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11602",
         "code": "658",
-        "name": "Лимонный концетрат",
+        "name": "Р›РёРјРѕРЅРЅС‹Р№ РєРѕРЅС†РµС‚СЂР°С‚",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1720,10 +1731,10 @@
         "parentId": "82d1fc52-9cb7-dd86-017d-1dc4fd073c4c",
         "num": "11115",
         "code": "130",
-        "name": "Лимоны",
+        "name": "Р›РёРјРѕРЅС‹",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1731,10 +1742,10 @@
         "parentId": "71a1c187-73d0-4124-bfaf-7b24f1ada7d1",
         "num": "11366",
         "code": "408",
-        "name": "Лист бамбука",
+        "name": "Р›РёСЃС‚ Р±Р°РјР±СѓРєР°",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "шт",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -1742,10 +1753,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15601",
         "code": "939",
-        "name": "Ложка барная сталь нерж",
+        "name": "Р›РѕР¶РєР° Р±Р°СЂРЅР°СЏ СЃС‚Р°Р»СЊ РЅРµСЂР¶",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -1753,10 +1764,10 @@
         "parentId": "71a1c187-73d0-4124-bfaf-7b24f1ada7d1",
         "num": "11166",
         "code": "197",
-        "name": "Лук зеленый",
+        "name": "Р›СѓРє Р·РµР»РµРЅС‹Р№",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1764,10 +1775,10 @@
         "parentId": "71a1c187-73d0-4124-bfaf-7b24f1ada7d1",
         "num": "11175",
         "code": "206",
-        "name": "Лук красный",
+        "name": "Р›СѓРє РєСЂР°СЃРЅС‹Р№",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1775,10 +1786,10 @@
         "parentId": "71a1c187-73d0-4124-bfaf-7b24f1ada7d1",
         "num": "11169",
         "code": "200",
-        "name": "Лук репчатый",
+        "name": "Р›СѓРє СЂРµРїС‡Р°С‚С‹Р№",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1786,10 +1797,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15739",
         "code": "1083",
-        "name": "Мадлер-бур сталь",
+        "name": "РњР°РґР»РµСЂ-Р±СѓСЂ СЃС‚Р°Р»СЊ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -1797,10 +1808,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11158",
         "code": "188",
-        "name": "Майонез",
+        "name": "РњР°Р№РѕРЅРµР·",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1808,10 +1819,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "11081",
         "code": "93",
-        "name": "Макаллан 12 лет",
+        "name": "РњР°РєР°Р»Р»Р°РЅ 12 Р»РµС‚",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -1819,10 +1830,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "11082",
         "code": "94",
-        "name": "Макаллан Шерри 12 лет",
+        "name": "РњР°РєР°Р»Р»Р°РЅ РЁРµСЂСЂРё 12 Р»РµС‚",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -1830,10 +1841,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "11091",
         "code": "103",
-        "name": "Макаллан Шерри 18 лет",
+        "name": "РњР°РєР°Р»Р»Р°РЅ РЁРµСЂСЂРё 18 Р»РµС‚",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -1841,10 +1852,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "11090",
         "code": "102",
-        "name": "Макаллан дабл каск 15",
+        "name": "РњР°РєР°Р»Р»Р°РЅ РґР°Р±Р» РєР°СЃРє 15",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -1852,10 +1863,10 @@
         "parentId": "05c92d33-2c91-4cb8-92f1-6b80faa27260",
         "num": "00115",
         "code": "50",
-        "name": "Манго консервированный",
+        "name": "РњР°РЅРіРѕ РєРѕРЅСЃРµСЂРІРёСЂРѕРІР°РЅРЅС‹Р№",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "кг",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1863,10 +1874,10 @@
         "parentId": "82d1fc52-9cb7-dd86-017d-1dc4fd073c4c",
         "num": "11690",
         "code": "750",
-        "name": "Манго свежее",
+        "name": "РњР°РЅРіРѕ СЃРІРµР¶РµРµ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1874,10 +1885,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "11416",
         "code": "463",
-        "name": "Маска защитная",
+        "name": "РњР°СЃРєР° Р·Р°С‰РёС‚РЅР°СЏ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "шт",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -1885,10 +1896,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11176",
         "code": "207",
-        "name": "Масло кунжутное",
+        "name": "РњР°СЃР»Рѕ РєСѓРЅР¶СѓС‚РЅРѕРµ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1896,10 +1907,10 @@
         "parentId": "08af49f8-b00b-4023-858b-144f8f6cc4a8",
         "num": "00112",
         "code": "44",
-        "name": "Масло оливковое",
+        "name": "РњР°СЃР»Рѕ РѕР»РёРІРєРѕРІРѕРµ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -1907,10 +1918,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11201",
         "code": "234",
-        "name": "Масло оливковое экстра вирджин",
+        "name": "РњР°СЃР»Рѕ РѕР»РёРІРєРѕРІРѕРµ СЌРєСЃС‚СЂР° РІРёСЂРґР¶РёРЅ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -1918,10 +1929,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11177",
         "code": "208",
-        "name": "Масло соевое",
+        "name": "РњР°СЃР»Рѕ СЃРѕРµРІРѕРµ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -1929,10 +1940,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11200",
         "code": "233",
-        "name": "Масло трюфельное",
+        "name": "РњР°СЃР»Рѕ С‚СЂСЋС„РµР»СЊРЅРѕРµ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -1940,7 +1951,7 @@
         "parentId": "7e27cc27-5dee-4db5-9047-e1db9f43f72c",
         "num": "0018",
         "code": "46",
-        "name": "Масло, молоко и сыр",
+        "name": "РњР°СЃР»Рѕ, РјРѕР»РѕРєРѕ Рё СЃС‹СЂ",
         "productType": "None",
         "cookingPlaceType": "None",
         "mainUnit": "None",
@@ -1951,10 +1962,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "15506",
         "code": "833",
-        "name": "Мед",
+        "name": "РњРµРґ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "кг",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1962,10 +1973,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11184",
         "code": "217",
-        "name": "Мед липовый",
+        "name": "РњРµРґ Р»РёРїРѕРІС‹Р№",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -1973,10 +1984,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15604",
         "code": "942",
-        "name": "Мензурка стекло 0,5л",
+        "name": "РњРµРЅР·СѓСЂРєР° СЃС‚РµРєР»Рѕ 0,5Р»",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -1984,10 +1995,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15472",
         "code": "798",
-        "name": "Мешки для мусора",
+        "name": "РњРµС€РєРё РґР»СЏ РјСѓСЃРѕСЂР°",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -1995,10 +2006,10 @@
         "parentId": "71a1c187-73d0-4124-bfaf-7b24f1ada7d1",
         "num": "11509",
         "code": "563",
-        "name": "Микрозелень ассортимент",
+        "name": "РњРёРєСЂРѕР·РµР»РµРЅСЊ Р°СЃСЃРѕСЂС‚РёРјРµРЅС‚",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -2006,10 +2017,10 @@
         "parentId": "71a1c187-73d0-4124-bfaf-7b24f1ada7d1",
         "num": "11498",
         "code": "550",
-        "name": "Микс салата в коробках",
+        "name": "РњРёРєСЃ СЃР°Р»Р°С‚Р° РІ РєРѕСЂРѕР±РєР°С…",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -2017,10 +2028,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15605",
         "code": "943",
-        "name": "Мини-прищепка бамбук / Пика бамбук",
+        "name": "РњРёРЅРё-РїСЂРёС‰РµРїРєР° Р±Р°РјР±СѓРє / РџРёРєР° Р±Р°РјР±СѓРє",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -2028,21 +2039,21 @@
         "parentId": "08af49f8-b00b-4023-858b-144f8f6cc4a8",
         "num": "00019",
         "code": "3",
-        "name": "Молоко",
+        "name": "РњРѕР»РѕРєРѕ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "кг",
-        "productCategory": "Кофе"
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "РєРі",
+        "productCategory": "РљРѕС„Рµ"
     },
     {
         "id": "fe97fc74-01d4-48b1-ab3c-093929d7c5cf",
         "parentId": "08af49f8-b00b-4023-858b-144f8f6cc4a8",
         "num": "00137",
         "code": "68",
-        "name": "Молоко 3,2%",
+        "name": "РњРѕР»РѕРєРѕ 3,2%",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2050,10 +2061,10 @@
         "parentId": "08af49f8-b00b-4023-858b-144f8f6cc4a8",
         "num": "15556",
         "code": "887",
-        "name": "Молоко кокосовое",
+        "name": "РњРѕР»РѕРєРѕ РєРѕРєРѕСЃРѕРІРѕРµ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2061,10 +2072,10 @@
         "parentId": "None",
         "num": "1232",
         "code": null,
-        "name": "Молоко пастеризованное 3,2%",
+        "name": "РњРѕР»РѕРєРѕ РїР°СЃС‚РµСЂРёР·РѕРІР°РЅРЅРѕРµ 3,2%",
         "productType": "OUTER",
         "cookingPlaceType": "None",
-        "mainUnit": "кг",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -2072,10 +2083,21 @@
         "parentId": "7e27cc27-5dee-4db5-9047-e1db9f43f72c",
         "num": "0033",
         "code": "70566",
-        "name": "Морепродукты",
+        "name": "РњРѕСЂРµРїСЂРѕРґСѓРєС‚С‹",
         "productType": "None",
         "cookingPlaceType": "None",
         "mainUnit": "None",
+        "productCategory": "None"
+    },
+    {
+        "id": "6316e3ba-3565-40ba-bf3f-e251f764651f",
+        "parentId": "c424313f-4aae-4baa-8e13-22846e9ef7ac",
+        "num": "15791",
+        "code": "70586",
+        "name": "РњРѕСЂРѕР¶РµРЅРѕРµ РЅР° РІРµСЃ",
+        "productType": "DISH",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -2083,21 +2105,21 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "00107",
         "code": "35",
-        "name": "Мука",
+        "name": "РњСѓРєР°",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "кг",
-        "productCategory": "Пицца"
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "РєРі",
+        "productCategory": "РџРёС†С†Р°"
     },
     {
         "id": "ac5564ca-da55-065b-0185-f45e8149a7a6",
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11439",
         "code": "491",
-        "name": "Мука темпурная",
+        "name": "РњСѓРєР° С‚РµРјРїСѓСЂРЅР°СЏ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -2105,10 +2127,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15582",
         "code": "913",
-        "name": "Мыло жидкое 5л",
+        "name": "РњС‹Р»Рѕ Р¶РёРґРєРѕРµ 5Р»",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -2116,7 +2138,7 @@
         "parentId": "7e27cc27-5dee-4db5-9047-e1db9f43f72c",
         "num": "0016",
         "code": "40",
-        "name": "Мясо",
+        "name": "РњСЏСЃРѕ",
         "productType": "None",
         "cookingPlaceType": "None",
         "mainUnit": "None",
@@ -2127,21 +2149,54 @@
         "parentId": "71a1c187-73d0-4124-bfaf-7b24f1ada7d1",
         "num": "15679",
         "code": "1019",
-        "name": "Мята св",
+        "name": "РњСЏС‚Р° СЃРІ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "кг",
-        "productCategory": "коктейли"
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "РєРі",
+        "productCategory": "РєРѕРєС‚РµР№Р»Рё"
+    },
+    {
+        "id": "ab4801ad-3a6c-4685-9ae7-0e9586d10fad",
+        "parentId": "067a6904-311d-4015-addd-d46b66f255fb",
+        "num": "15790",
+        "code": "70585",
+        "name": "РќР°Р±РѕСЂ РїРёС‚Р°РЅРёСЏ \"Р‘Р°Р·РѕРІС‹Р№+\"",
+        "productType": "GOODS",
+        "cookingPlaceType": "Р“РѕСЂСЏС‡РёР№ Р¦РµС…",
+        "mainUnit": "РєРі",
+        "productCategory": "РЎРџРђ"
+    },
+    {
+        "id": "73006150-4771-4683-b816-d35618b005e9",
+        "parentId": "067a6904-311d-4015-addd-d46b66f255fb",
+        "num": "15789",
+        "code": "70584",
+        "name": "РќР°Р±РѕСЂ РїРёС‚Р°РЅРёСЏ РЅР° 1200 РєРєР°Р»",
+        "productType": "GOODS",
+        "cookingPlaceType": "Р“РѕСЂСЏС‡РёР№ Р¦РµС…",
+        "mainUnit": "РєРі",
+        "productCategory": "РЎРџРђ"
+    },
+    {
+        "id": "14367c37-a7b4-4a29-8cc4-885cc4da4393",
+        "parentId": "067a6904-311d-4015-addd-d46b66f255fb",
+        "num": "15788",
+        "code": "70583",
+        "name": "РќР°Р±РѕСЂ РїРёС‚Р°РЅРёСЏ РЅР° 2200 РєРєР°Р»",
+        "productType": "GOODS",
+        "cookingPlaceType": "Р“РѕСЂСЏС‡РёР№ Р¦РµС…",
+        "mainUnit": "РєРі",
+        "productCategory": "РЎРџРђ"
     },
     {
         "id": "ac5564ca-da55-065b-0185-f45e8149a8eb",
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15723",
         "code": "1067",
-        "name": "Нарзанник дыухступенч сталь нерж",
+        "name": "РќР°СЂР·Р°РЅРЅРёРє РґС‹СѓС…СЃС‚СѓРїРµРЅС‡ СЃС‚Р°Р»СЊ РЅРµСЂР¶",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -2149,10 +2204,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11142",
         "code": "168",
-        "name": "Нори Gold",
+        "name": "РќРѕСЂРё Gold",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "шт",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -2160,10 +2215,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "11092",
         "code": "104",
-        "name": "Нэйкид Грауз",
+        "name": "РќСЌР№РєРёРґ Р“СЂР°СѓР·",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2171,18 +2226,18 @@
         "parentId": "067a6904-311d-4015-addd-d46b66f255fb",
         "num": "00149",
         "code": "83",
-        "name": "Обертываные",
+        "name": "РћР±РµСЂС‚С‹РІР°РЅС‹Рµ",
         "productType": "SERVICE",
-        "cookingPlaceType": "Услуги",
-        "mainUnit": "шт",
-        "productCategory": "СПА"
+        "cookingPlaceType": "РЈСЃР»СѓРіРё",
+        "mainUnit": "С€С‚",
+        "productCategory": "РЎРџРђ"
     },
     {
         "id": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "parentId": "None",
         "num": "0032",
         "code": "70565",
-        "name": "Оборудование/Хозы/Посуда",
+        "name": "РћР±РѕСЂСѓРґРѕРІР°РЅРёРµ/РҐРѕР·С‹/РџРѕСЃСѓРґР°",
         "productType": "None",
         "cookingPlaceType": "None",
         "mainUnit": "None",
@@ -2193,7 +2248,7 @@
         "parentId": "7e27cc27-5dee-4db5-9047-e1db9f43f72c",
         "num": "0017",
         "code": "41",
-        "name": "Овощи",
+        "name": "РћРІРѕС‰Рё",
         "productType": "None",
         "cookingPlaceType": "None",
         "mainUnit": "None",
@@ -2204,21 +2259,21 @@
         "parentId": "71a1c187-73d0-4124-bfaf-7b24f1ada7d1",
         "num": "00143",
         "code": "76",
-        "name": "Огурец",
+        "name": "РћРіСѓСЂРµС†",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "кг",
-        "productCategory": "Салаты"
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "РєРі",
+        "productCategory": "РЎР°Р»Р°С‚С‹"
     },
     {
         "id": "ac5564ca-da55-065b-0185-f45e8149a782",
         "parentId": "71a1c187-73d0-4124-bfaf-7b24f1ada7d1",
         "num": "11173",
         "code": "204",
-        "name": "Огурец свежий",
+        "name": "РћРіСѓСЂРµС† СЃРІРµР¶РёР№",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -2226,10 +2281,10 @@
         "parentId": "a466d30d-9854-490d-a67a-ac153267fa3f",
         "num": "11297",
         "code": "336",
-        "name": "Окунь филе",
+        "name": "РћРєСѓРЅСЊ С„РёР»Рµ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -2237,10 +2292,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15595",
         "code": "929",
-        "name": "Олд фешн бокал стекло",
+        "name": "РћР»Рґ С„РµС€РЅ Р±РѕРєР°Р» СЃС‚РµРєР»Рѕ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -2248,10 +2303,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11190",
         "code": "223",
-        "name": "Орех грецкий",
+        "name": "РћСЂРµС… РіСЂРµС†РєРёР№",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -2259,10 +2314,10 @@
         "parentId": "a466d30d-9854-490d-a67a-ac153267fa3f",
         "num": "11202",
         "code": "235",
-        "name": "Осьминог мини",
+        "name": "РћСЃСЊРјРёРЅРѕРі РјРёРЅРё",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -2270,10 +2325,10 @@
         "parentId": "a466d30d-9854-490d-a67a-ac153267fa3f",
         "num": "11414",
         "code": "461",
-        "name": "Осьминог с/м",
+        "name": "РћСЃСЊРјРёРЅРѕРі СЃ/Рј",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -2281,10 +2336,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "11479",
         "code": "531",
-        "name": "Пакеты мусорные 120 литров/240л",
+        "name": "РџР°РєРµС‚С‹ РјСѓСЃРѕСЂРЅС‹Рµ 120 Р»РёС‚СЂРѕРІ/240Р»",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "шт",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -2292,10 +2347,10 @@
         "parentId": "08af49f8-b00b-4023-858b-144f8f6cc4a8",
         "num": "11205",
         "code": "238",
-        "name": "Пармезан",
+        "name": "РџР°СЂРјРµР·Р°РЅ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -2303,10 +2358,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11680",
         "code": "740",
-        "name": "Паста ким чи",
+        "name": "РџР°СЃС‚Р° РєРёРј С‡Рё",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -2314,10 +2369,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11152",
         "code": "179",
-        "name": "Паста мисо светлая",
+        "name": "РџР°СЃС‚Р° РјРёСЃРѕ СЃРІРµС‚Р»Р°СЏ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -2325,10 +2380,10 @@
         "parentId": "28609b7e-458d-4411-9af6-3dea87205452",
         "num": "11482",
         "code": "534",
-        "name": "Патрон Репосадо",
+        "name": "РџР°С‚СЂРѕРЅ Р РµРїРѕСЃР°РґРѕ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2336,21 +2391,21 @@
         "parentId": "615c14c7-3713-46eb-b284-a6e994dd0470",
         "num": "00113",
         "code": "45",
-        "name": "Пепперони колбаски",
+        "name": "РџРµРїРїРµСЂРѕРЅРё РєРѕР»Р±Р°СЃРєРё",
         "productType": "GOODS",
-        "cookingPlaceType": "Сэты",
-        "mainUnit": "кг",
-        "productCategory": "Мясо"
+        "cookingPlaceType": "РЎСЌС‚С‹",
+        "mainUnit": "РєРі",
+        "productCategory": "РњСЏСЃРѕ"
     },
     {
         "id": "ac5564ca-da55-065b-0185-f45e8149a79c",
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11627",
         "code": "687",
-        "name": "Перец ч/м",
+        "name": "РџРµСЂРµС† С‡/Рј",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -2358,10 +2413,10 @@
         "parentId": "71a1c187-73d0-4124-bfaf-7b24f1ada7d1",
         "num": "11171",
         "code": "202",
-        "name": "Перец чили огонек",
+        "name": "РџРµСЂРµС† С‡РёР»Рё РѕРіРѕРЅРµРє",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -2369,21 +2424,21 @@
         "parentId": "82d1fc52-9cb7-dd86-017d-1dc4fd073c4c",
         "num": "00106",
         "code": "33",
-        "name": "Персик",
+        "name": "РџРµСЂСЃРёРє",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
-        "productCategory": "Фрукты"
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
+        "productCategory": "Р¤СЂСѓРєС‚С‹"
     },
     {
         "id": "ac5564ca-da55-065b-0185-f45e8149a942",
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15772",
         "code": "1117",
-        "name": "Перчатки резино-нитриловые прочные",
+        "name": "РџРµСЂС‡Р°С‚РєРё СЂРµР·РёРЅРѕ-РЅРёС‚СЂРёР»РѕРІС‹Рµ РїСЂРѕС‡РЅС‹Рµ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "шт",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -2391,10 +2446,10 @@
         "parentId": "71a1c187-73d0-4124-bfaf-7b24f1ada7d1",
         "num": "11664",
         "code": "724",
-        "name": "Петрушка",
+        "name": "РџРµС‚СЂСѓС€РєР°",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -2402,21 +2457,21 @@
         "parentId": "e41fcf31-6f41-46e8-a05b-25abbf9844ef",
         "num": "0045",
         "code": "70579",
-        "name": "Пиво",
+        "name": "РџРёРІРѕ",
         "productType": "None",
         "cookingPlaceType": "None",
         "mainUnit": "None",
-        "productCategory": "Алкоголь"
+        "productCategory": "РђР»РєРѕРіРѕР»СЊ"
     },
     {
         "id": "ac5564ca-da55-065b-0185-f45e8149a702",
         "parentId": "a94eb30e-76a2-439a-95bc-d4dcc62e777b",
         "num": "15586",
         "code": "919",
-        "name": "Пиво Корона Экстра 4,5% 0,33 стекло",
+        "name": "РџРёРІРѕ РљРѕСЂРѕРЅР° Р­РєСЃС‚СЂР° 4,5% 0,33 СЃС‚РµРєР»Рѕ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -2424,10 +2479,10 @@
         "parentId": "a94eb30e-76a2-439a-95bc-d4dcc62e777b",
         "num": "15736",
         "code": "1080",
-        "name": "Пиво Хейнекен 4,8% в кеге",
+        "name": "РџРёРІРѕ РҐРµР№РЅРµРєРµРЅ 4,8% РІ РєРµРіРµ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2435,10 +2490,10 @@
         "parentId": "a94eb30e-76a2-439a-95bc-d4dcc62e777b",
         "num": "15735",
         "code": "1079",
-        "name": "Пиво Эдельвейс 4,5% в кеге",
+        "name": "РџРёРІРѕ Р­РґРµР»СЊРІРµР№СЃ 4,5% РІ РєРµРіРµ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2446,10 +2501,10 @@
         "parentId": "82d1fc52-9cb7-dd86-017d-1dc4fd073c4c",
         "num": "15580",
         "code": "911",
-        "name": "Питахайа",
+        "name": "РџРёС‚Р°С…Р°Р№Р°",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "кг",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -2457,7 +2512,7 @@
         "parentId": "7e27cc27-5dee-4db5-9047-e1db9f43f72c",
         "num": "0010",
         "code": "27",
-        "name": "Пицца",
+        "name": "РџРёС†С†Р°",
         "productType": "None",
         "cookingPlaceType": "None",
         "mainUnit": "None",
@@ -2468,21 +2523,21 @@
         "parentId": "71a1c187-73d0-4124-bfaf-7b24f1ada7d1",
         "num": "00144",
         "code": "77",
-        "name": "Помидор",
+        "name": "РџРѕРјРёРґРѕСЂ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "кг",
-        "productCategory": "Салаты"
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "РєРі",
+        "productCategory": "РЎР°Р»Р°С‚С‹"
     },
     {
         "id": "ac5564ca-da55-065b-0185-f45e8149a806",
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "11104",
         "code": "116",
-        "name": "Посуда",
+        "name": "РџРѕСЃСѓРґР°",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "шт",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -2490,10 +2545,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15688",
         "code": "1028",
-        "name": "Пробка вакуум для помпы",
+        "name": "РџСЂРѕР±РєР° РІР°РєСѓСѓРј РґР»СЏ РїРѕРјРїС‹",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -2501,10 +2556,10 @@
         "parentId": "edc219ae-20a5-4d83-a01d-1e68a0e28abb",
         "num": "15525",
         "code": "854",
-        "name": "РОм Бакарди Спайсд",
+        "name": "Р РћРј Р‘Р°РєР°СЂРґРё РЎРїР°Р№СЃРґ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2512,10 +2567,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "11099",
         "code": "111",
-        "name": "Расходники",
+        "name": "Р Р°СЃС…РѕРґРЅРёРєРё",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "шт",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -2523,10 +2578,10 @@
         "parentId": "71a1c187-73d0-4124-bfaf-7b24f1ada7d1",
         "num": "11162",
         "code": "193",
-        "name": "Редис длинный",
+        "name": "Р РµРґРёСЃ РґР»РёРЅРЅС‹Р№",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -2534,10 +2589,10 @@
         "parentId": "71a1c187-73d0-4124-bfaf-7b24f1ada7d1",
         "num": "11594",
         "code": "650",
-        "name": "Редька маринованная",
+        "name": "Р РµРґСЊРєР° РјР°СЂРёРЅРѕРІР°РЅРЅР°СЏ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -2545,10 +2600,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11160",
         "code": "191",
-        "name": "Рис",
+        "name": "Р РёСЃ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -2556,10 +2611,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11271",
         "code": "308",
-        "name": "Рис воздушный (шарики)",
+        "name": "Р РёСЃ РІРѕР·РґСѓС€РЅС‹Р№ (С€Р°СЂРёРєРё)",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -2567,21 +2622,21 @@
         "parentId": "149ab114-c54b-41d0-836f-7efe715ec792",
         "num": "0040",
         "code": "70574",
-        "name": "Ром",
+        "name": "Р РѕРј",
         "productType": "None",
         "cookingPlaceType": "None",
         "mainUnit": "None",
-        "productCategory": "Алкоголь"
+        "productCategory": "РђР»РєРѕРіРѕР»СЊ"
     },
     {
         "id": "ac5564ca-da55-065b-0185-f45e8149a6ec",
         "parentId": "edc219ae-20a5-4d83-a01d-1e68a0e28abb",
         "num": "15558",
         "code": "889",
-        "name": "Ром \"Angostura\" Aged 7 Years",
+        "name": "Р РѕРј \"Angostura\" Aged 7 Years",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "порц",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РїРѕСЂС†",
         "productCategory": "None"
     },
     {
@@ -2589,10 +2644,10 @@
         "parentId": "edc219ae-20a5-4d83-a01d-1e68a0e28abb",
         "num": "15773",
         "code": "1118",
-        "name": "Ром Бакарди Оро",
+        "name": "Р РѕРј Р‘Р°РєР°СЂРґРё РћСЂРѕ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2600,10 +2655,10 @@
         "parentId": "edc219ae-20a5-4d83-a01d-1e68a0e28abb",
         "num": "15478",
         "code": "804",
-        "name": "Ром Бакарди темный",
+        "name": "Р РѕРј Р‘Р°РєР°СЂРґРё С‚РµРјРЅС‹Р№",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2611,10 +2666,10 @@
         "parentId": "edc219ae-20a5-4d83-a01d-1e68a0e28abb",
         "num": "15490",
         "code": "817",
-        "name": "Ром Ботукал Резерва Эксклюзив 12 лет",
+        "name": "Р РѕРј Р‘РѕС‚СѓРєР°Р» Р РµР·РµСЂРІР° Р­РєСЃРєР»СЋР·РёРІ 12 Р»РµС‚",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2622,10 +2677,10 @@
         "parentId": "edc219ae-20a5-4d83-a01d-1e68a0e28abb",
         "num": "11488",
         "code": "540",
-        "name": "Ром Бругал 1888",
+        "name": "Р РѕРј Р‘СЂСѓРіР°Р» 1888",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2633,10 +2688,10 @@
         "parentId": "edc219ae-20a5-4d83-a01d-1e68a0e28abb",
         "num": "11489",
         "code": "541",
-        "name": "Ром Бругал Аньехо",
+        "name": "Р РѕРј Р‘СЂСѓРіР°Р» РђРЅСЊРµС…Рѕ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2644,10 +2699,10 @@
         "parentId": "edc219ae-20a5-4d83-a01d-1e68a0e28abb",
         "num": "11491",
         "code": "543",
-        "name": "Ром Гавана Аньехо 3 г",
+        "name": "Р РѕРј Р“Р°РІР°РЅР° РђРЅСЊРµС…Рѕ 3 Рі",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2655,10 +2710,10 @@
         "parentId": "edc219ae-20a5-4d83-a01d-1e68a0e28abb",
         "num": "11492",
         "code": "544",
-        "name": "Ром Гавана Клуб Аньехо 7 лет",
+        "name": "Р РѕРј Р“Р°РІР°РЅР° РљР»СѓР± РђРЅСЊРµС…Рѕ 7 Р»РµС‚",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2666,10 +2721,10 @@
         "parentId": "edc219ae-20a5-4d83-a01d-1e68a0e28abb",
         "num": "11490",
         "code": "542",
-        "name": "Ром Гавана Клуб Аньехо Эспесиаль",
+        "name": "Р РѕРј Р“Р°РІР°РЅР° РљР»СѓР± РђРЅСЊРµС…Рѕ Р­СЃРїРµСЃРёР°Р»СЊ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2677,10 +2732,10 @@
         "parentId": "edc219ae-20a5-4d83-a01d-1e68a0e28abb",
         "num": "15562",
         "code": "893",
-        "name": "Ром Дэд Мэнс в асс.",
+        "name": "Р РѕРј Р”СЌРґ РњСЌРЅСЃ РІ Р°СЃСЃ.",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2688,10 +2743,10 @@
         "parentId": "edc219ae-20a5-4d83-a01d-1e68a0e28abb",
         "num": "15681",
         "code": "1021",
-        "name": "Ром Закапа Сэнтэнарио 23г",
+        "name": "Р РѕРј Р—Р°РєР°РїР° РЎСЌРЅС‚СЌРЅР°СЂРёРѕ 23Рі",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2699,10 +2754,10 @@
         "parentId": "edc219ae-20a5-4d83-a01d-1e68a0e28abb",
         "num": "15682",
         "code": "1022",
-        "name": "Ром Капитан Морган Темный",
+        "name": "Р РѕРј РљР°РїРёС‚Р°РЅ РњРѕСЂРіР°РЅ РўРµРјРЅС‹Р№",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2710,10 +2765,10 @@
         "parentId": "edc219ae-20a5-4d83-a01d-1e68a0e28abb",
         "num": "15683",
         "code": "1023",
-        "name": "Ром Капитан Морган Уайт",
+        "name": "Р РѕРј РљР°РїРёС‚Р°РЅ РњРѕСЂРіР°РЅ РЈР°Р№С‚",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2721,10 +2776,10 @@
         "parentId": "edc219ae-20a5-4d83-a01d-1e68a0e28abb",
         "num": "15570",
         "code": "901",
-        "name": "Ром Кракен Пряный Черный",
+        "name": "Р РѕРј РљСЂР°РєРµРЅ РџСЂСЏРЅС‹Р№ Р§РµСЂРЅС‹Р№",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2732,10 +2787,10 @@
         "parentId": "edc219ae-20a5-4d83-a01d-1e68a0e28abb",
         "num": "15571",
         "code": "902",
-        "name": "Ром Матусалем Аньехо",
+        "name": "Р РѕРј РњР°С‚СѓСЃР°Р»РµРј РђРЅСЊРµС…Рѕ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2743,10 +2798,10 @@
         "parentId": "edc219ae-20a5-4d83-a01d-1e68a0e28abb",
         "num": "15572",
         "code": "903",
-        "name": "Ром Матусалем СОлера 7 лет",
+        "name": "Р РѕРј РњР°С‚СѓСЃР°Р»РµРј РЎРћР»РµСЂР° 7 Р»РµС‚",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2754,10 +2809,10 @@
         "parentId": "edc219ae-20a5-4d83-a01d-1e68a0e28abb",
         "num": "15573",
         "code": "904",
-        "name": "Ром Сангсом",
+        "name": "Р РѕРј РЎР°РЅРіСЃРѕРј",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2765,10 +2820,10 @@
         "parentId": "edc219ae-20a5-4d83-a01d-1e68a0e28abb",
         "num": "15491",
         "code": "818",
-        "name": "Ром Сантисима Тринидад де Куба 15 л",
+        "name": "Р РѕРј РЎР°РЅС‚РёСЃРёРјР° РўСЂРёРЅРёРґР°Рґ РґРµ РљСѓР±Р° 15 Р»",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2776,10 +2831,10 @@
         "parentId": "edc219ae-20a5-4d83-a01d-1e68a0e28abb",
         "num": "15488",
         "code": "815",
-        "name": "Ром Сэзон",
+        "name": "Р РѕРј РЎСЌР·РѕРЅ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2787,10 +2842,10 @@
         "parentId": "edc219ae-20a5-4d83-a01d-1e68a0e28abb",
         "num": "15489",
         "code": "816",
-        "name": "Ром Сэзон Резерв",
+        "name": "Р РѕРј РЎСЌР·РѕРЅ Р РµР·РµСЂРІ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2798,10 +2853,10 @@
         "parentId": "edc219ae-20a5-4d83-a01d-1e68a0e28abb",
         "num": "15574",
         "code": "905",
-        "name": "Ром Шерманс Резерв Спайсд",
+        "name": "Р РѕРј РЁРµСЂРјР°РЅСЃ Р РµР·РµСЂРІ РЎРїР°Р№СЃРґ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2809,10 +2864,10 @@
         "parentId": "edc219ae-20a5-4d83-a01d-1e68a0e28abb",
         "num": "15575",
         "code": "906",
-        "name": "Ром Шерманс Резерв Уйат",
+        "name": "Р РѕРј РЁРµСЂРјР°РЅСЃ Р РµР·РµСЂРІ РЈР№Р°С‚",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2820,10 +2875,10 @@
         "parentId": "edc219ae-20a5-4d83-a01d-1e68a0e28abb",
         "num": "15576",
         "code": "907",
-        "name": "Ром Эпплтон Эстейт Сигнача Бленд",
+        "name": "Р РѕРј Р­РїРїР»С‚РѕРЅ Р­СЃС‚РµР№С‚ РЎРёРіРЅР°С‡Р° Р‘Р»РµРЅРґ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2831,10 +2886,10 @@
         "parentId": "edc219ae-20a5-4d83-a01d-1e68a0e28abb",
         "num": "15480",
         "code": "806",
-        "name": "Ром бругал Экстра Вьехо",
+        "name": "Р РѕРј Р±СЂСѓРіР°Р» Р­РєСЃС‚СЂР° Р’СЊРµС…Рѕ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2842,10 +2897,10 @@
         "parentId": "edc219ae-20a5-4d83-a01d-1e68a0e28abb",
         "num": "11068",
         "code": "80",
-        "name": "Ром хаус",
+        "name": "Р РѕРј С…Р°СѓСЃ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2853,10 +2908,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15698",
         "code": "1040",
-        "name": "Рюмка коктейльная 215 мл",
+        "name": "Р СЋРјРєР° РєРѕРєС‚РµР№Р»СЊРЅР°СЏ 215 РјР»",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -2864,32 +2919,32 @@
         "parentId": "None",
         "num": "0026",
         "code": "78",
-        "name": "СПА",
+        "name": "РЎРџРђ",
         "productType": "None",
         "cookingPlaceType": "None",
         "mainUnit": "None",
-        "productCategory": "СПА"
+        "productCategory": "РЎРџРђ"
     },
     {
         "id": "88436c48-49f7-4cec-8600-6e785e11c7e8",
         "parentId": "067a6904-311d-4015-addd-d46b66f255fb",
         "num": "00145",
         "code": "79",
-        "name": "СПА-массаж",
+        "name": "РЎРџРђ-РјР°СЃСЃР°Р¶",
         "productType": "SERVICE",
-        "cookingPlaceType": "Услуги",
-        "mainUnit": "шт",
-        "productCategory": "СПА"
+        "cookingPlaceType": "РЈСЃР»СѓРіРё",
+        "mainUnit": "С€С‚",
+        "productCategory": "РЎРџРђ"
     },
     {
         "id": "ac5564ca-da55-065b-0185-f45e8149a7a8",
         "parentId": "71a1c187-73d0-4124-bfaf-7b24f1ada7d1",
         "num": "11153",
         "code": "180",
-        "name": "Салат Чука",
+        "name": "РЎР°Р»Р°С‚ Р§СѓРєР°",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -2897,10 +2952,10 @@
         "parentId": "71a1c187-73d0-4124-bfaf-7b24f1ada7d1",
         "num": "11389",
         "code": "436",
-        "name": "Салат фризе",
+        "name": "РЎР°Р»Р°С‚ С„СЂРёР·Рµ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -2908,21 +2963,21 @@
         "parentId": "7e27cc27-5dee-4db5-9047-e1db9f43f72c",
         "num": "0012",
         "code": "30",
-        "name": "Салаты",
+        "name": "РЎР°Р»Р°С‚С‹",
         "productType": "None",
         "cookingPlaceType": "None",
         "mainUnit": "None",
-        "productCategory": "Салаты"
+        "productCategory": "РЎР°Р»Р°С‚С‹"
     },
     {
         "id": "ac5564ca-da55-065b-0185-f45e8149a730",
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15476",
         "code": "802",
-        "name": "Салфетка микрофибра",
+        "name": "РЎР°Р»С„РµС‚РєР° РјРёРєСЂРѕС„РёР±СЂР°",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -2930,10 +2985,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15473",
         "code": "799",
-        "name": "Салфетки стандарт бумаж",
+        "name": "РЎР°Р»С„РµС‚РєРё СЃС‚Р°РЅРґР°СЂС‚ Р±СѓРјР°Р¶",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -2941,10 +2996,10 @@
         "parentId": "149ab114-c54b-41d0-836f-7efe715ec792",
         "num": "15607",
         "code": "945",
-        "name": "Самбука Ламоника",
+        "name": "РЎР°РјР±СѓРєР° Р›Р°РјРѕРЅРёРєР°",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2952,10 +3007,10 @@
         "parentId": "ef9dba79-ec3f-4811-b2d1-e8401710ba5f",
         "num": "15487",
         "code": "814",
-        "name": "Сан реми ВСОП",
+        "name": "РЎР°РЅ СЂРµРјРё Р’РЎРћРџ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -2963,21 +3018,21 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "0050",
         "code": "00000000",
-        "name": "Сахар",
+        "name": "РЎР°С…Р°СЂ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
-        "productCategory": "Кофе"
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
+        "productCategory": "РљРѕС„Рµ"
     },
     {
         "id": "ac5564ca-da55-065b-0185-f45e8149a7da",
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11172",
         "code": "203",
-        "name": "Сахар песок",
+        "name": "РЎР°С…Р°СЂ РїРµСЃРѕРє",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -2985,10 +3040,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11222",
         "code": "256",
-        "name": "Сахар тростниковый",
+        "name": "РЎР°С…Р°СЂ С‚СЂРѕСЃС‚РЅРёРєРѕРІС‹Р№",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -2996,10 +3051,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11105",
         "code": "120",
-        "name": "Сахар-песок",
+        "name": "РЎР°С…Р°СЂ-РїРµСЃРѕРє",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -3007,10 +3062,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15588",
         "code": "922",
-        "name": "Светильник светодиодный",
+        "name": "РЎРІРµС‚РёР»СЊРЅРёРє СЃРІРµС‚РѕРґРёРѕРґРЅС‹Р№",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -3018,10 +3073,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15602",
         "code": "940",
-        "name": "Сито-конус сталь нерж",
+        "name": "РЎРёС‚Рѕ-РєРѕРЅСѓСЃ СЃС‚Р°Р»СЊ РЅРµСЂР¶",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -3029,10 +3084,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15738",
         "code": "1082",
-        "name": "Сквизер для лайма алюм",
+        "name": "РЎРєРІРёР·РµСЂ РґР»СЏ Р»Р°Р№РјР° Р°Р»СЋРј",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -3040,21 +3095,21 @@
         "parentId": "067a6904-311d-4015-addd-d46b66f255fb",
         "num": "00150",
         "code": "84",
-        "name": "Скраб",
+        "name": "РЎРєСЂР°Р±",
         "productType": "SERVICE",
-        "cookingPlaceType": "Услуги",
-        "mainUnit": "шт",
-        "productCategory": "СПА"
+        "cookingPlaceType": "РЈСЃР»СѓРіРё",
+        "mainUnit": "С€С‚",
+        "productCategory": "РЎРџРђ"
     },
     {
         "id": "d6517fec-151a-4010-860d-d6c43b2f75f1",
         "parentId": "None",
         "num": "2113",
         "code": null,
-        "name": "Сливки Gourmet 10%",
+        "name": "РЎР»РёРІРєРё Gourmet 10%",
         "productType": "OUTER",
         "cookingPlaceType": "None",
-        "mainUnit": "кг",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -3062,10 +3117,10 @@
         "parentId": "08af49f8-b00b-4023-858b-144f8f6cc4a8",
         "num": "15696",
         "code": "1038",
-        "name": "Сливки для взбивания",
+        "name": "РЎР»РёРІРєРё РґР»СЏ РІР·Р±РёРІР°РЅРёСЏ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3073,10 +3128,10 @@
         "parentId": "08af49f8-b00b-4023-858b-144f8f6cc4a8",
         "num": "11203",
         "code": "236",
-        "name": "Сливки комбинированные",
+        "name": "РЎР»РёРІРєРё РєРѕРјР±РёРЅРёСЂРѕРІР°РЅРЅС‹Рµ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3084,10 +3139,10 @@
         "parentId": "08af49f8-b00b-4023-858b-144f8f6cc4a8",
         "num": "00132",
         "code": "66",
-        "name": "Сливки кофейные 10%",
+        "name": "РЎР»РёРІРєРё РєРѕС„РµР№РЅС‹Рµ 10%",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3095,10 +3150,10 @@
         "parentId": "149ab114-c54b-41d0-836f-7efe715ec792",
         "num": "11064",
         "code": "74",
-        "name": "Соджу Джинро",
+        "name": "РЎРѕРґР¶Сѓ Р”Р¶РёРЅСЂРѕ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3106,10 +3161,10 @@
         "parentId": "None",
         "num": "2223",
         "code": null,
-        "name": "Соеваое молоко Alpro",
+        "name": "РЎРѕРµРІР°РѕРµ РјРѕР»РѕРєРѕ Alpro",
         "productType": "OUTER",
         "cookingPlaceType": "None",
-        "mainUnit": "кг",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -3117,10 +3172,10 @@
         "parentId": "08af49f8-b00b-4023-858b-144f8f6cc4a8",
         "num": "00131",
         "code": "65",
-        "name": "Соевое молоко",
+        "name": "РЎРѕРµРІРѕРµ РјРѕР»РѕРєРѕ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3128,10 +3183,10 @@
         "parentId": "c424313f-4aae-4baa-8e13-22846e9ef7ac",
         "num": "11637",
         "code": "697",
-        "name": "Сок грушевый",
+        "name": "РЎРѕРє РіСЂСѓС€РµРІС‹Р№",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "шт",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -3139,10 +3194,10 @@
         "parentId": "c424313f-4aae-4baa-8e13-22846e9ef7ac",
         "num": "11590",
         "code": "646",
-        "name": "Сок томатный",
+        "name": "РЎРѕРє С‚РѕРјР°С‚РЅС‹Р№",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "шт",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -3150,10 +3205,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "00111",
         "code": "43",
-        "name": "Соль",
+        "name": "РЎРѕР»СЊ",
         "productType": "GOODS",
-        "cookingPlaceType": "Сэты",
-        "mainUnit": "кг",
+        "cookingPlaceType": "РЎСЌС‚С‹",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -3161,10 +3216,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11274",
         "code": "313",
-        "name": "Соль пищевая",
+        "name": "РЎРѕР»СЊ РїРёС‰РµРІР°СЏ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -3172,10 +3227,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11131",
         "code": "153",
-        "name": "Соус Унаги",
+        "name": "РЎРѕСѓСЃ РЈРЅР°РіРё",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3183,10 +3238,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11589",
         "code": "645",
-        "name": "Соус бальзамический белый(апельсиновый)",
+        "name": "РЎРѕСѓСЃ Р±Р°Р»СЊР·Р°РјРёС‡РµСЃРєРёР№ Р±РµР»С‹Р№(Р°РїРµР»СЊСЃРёРЅРѕРІС‹Р№)",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -3194,10 +3249,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11150",
         "code": "177",
-        "name": "Соус кимчи",
+        "name": "РЎРѕСѓСЃ РєРёРјС‡Рё",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3205,10 +3260,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11223",
         "code": "257",
-        "name": "Соус кунжутный",
+        "name": "РЎРѕСѓСЃ РєСѓРЅР¶СѓС‚РЅС‹Р№",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3216,10 +3271,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11211",
         "code": "244",
-        "name": "Соус соевый Киккоман",
+        "name": "РЎРѕСѓСЃ СЃРѕРµРІС‹Р№ РљРёРєРєРѕРјР°РЅ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3227,10 +3282,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11236",
         "code": "270",
-        "name": "Соус соевый крабовый",
+        "name": "РЎРѕСѓСЃ СЃРѕРµРІС‹Р№ РєСЂР°Р±РѕРІС‹Р№",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3238,10 +3293,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "15594",
         "code": "928",
-        "name": "Соус сырный",
+        "name": "РЎРѕСѓСЃ СЃС‹СЂРЅС‹Р№",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "кг",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -3249,10 +3304,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11144",
         "code": "170",
-        "name": "Соус терияки",
+        "name": "РЎРѕСѓСЃ С‚РµСЂРёСЏРєРё",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3260,10 +3315,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11232",
         "code": "266",
-        "name": "Соус шрирача",
+        "name": "РЎРѕСѓСЃ С€СЂРёСЂР°С‡Р°",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3271,10 +3326,10 @@
         "parentId": "71a1c187-73d0-4124-bfaf-7b24f1ada7d1",
         "num": "11235",
         "code": "269",
-        "name": "Соя ростки",
+        "name": "РЎРѕСЏ СЂРѕСЃС‚РєРё",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -3282,10 +3337,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11113",
         "code": "128",
-        "name": "Специи / корица мол",
+        "name": "РЎРїРµС†РёРё / РєРѕСЂРёС†Р° РјРѕР»",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -3293,10 +3348,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15717",
         "code": "1061",
-        "name": "Средство для дезинфекции рук и поверхностей Триоклин",
+        "name": "РЎСЂРµРґСЃС‚РІРѕ РґР»СЏ РґРµР·РёРЅС„РµРєС†РёРё СЂСѓРє Рё РїРѕРІРµСЂС…РЅРѕСЃС‚РµР№ РўСЂРёРѕРєР»РёРЅ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -3304,10 +3359,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15581",
         "code": "912",
-        "name": "Средство от засоров",
+        "name": "РЎСЂРµРґСЃС‚РІРѕ РѕС‚ Р·Р°СЃРѕСЂРѕРІ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -3315,10 +3370,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "11463",
         "code": "515",
-        "name": "Стакан одноразовый 0,2",
+        "name": "РЎС‚Р°РєР°РЅ РѕРґРЅРѕСЂР°Р·РѕРІС‹Р№ 0,2",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "шт",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -3326,10 +3381,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15616",
         "code": "954",
-        "name": "Стакан пласт купол",
+        "name": "РЎС‚Р°РєР°РЅ РїР»Р°СЃС‚ РєСѓРїРѕР»",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -3337,10 +3392,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15597",
         "code": "931",
-        "name": "Стопка 40мл стекло",
+        "name": "РЎС‚РѕРїРєР° 40РјР» СЃС‚РµРєР»Рѕ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -3348,10 +3403,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15600",
         "code": "938",
-        "name": "Стрейнер сталь нерж",
+        "name": "РЎС‚СЂРµР№РЅРµСЂ СЃС‚Р°Р»СЊ РЅРµСЂР¶",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -3359,10 +3414,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11156",
         "code": "183",
-        "name": "Стружка тунца",
+        "name": "РЎС‚СЂСѓР¶РєР° С‚СѓРЅС†Р°",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -3370,10 +3425,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15587",
         "code": "921",
-        "name": "Стул барный",
+        "name": "РЎС‚СѓР» Р±Р°СЂРЅС‹Р№",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -3381,10 +3436,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11382",
         "code": "427",
-        "name": "Сухари панировочные",
+        "name": "РЎСѓС…Р°СЂРё РїР°РЅРёСЂРѕРІРѕС‡РЅС‹Рµ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -3392,10 +3447,10 @@
         "parentId": "08af49f8-b00b-4023-858b-144f8f6cc4a8",
         "num": "00119",
         "code": "54",
-        "name": "Сыр Дор Блю",
+        "name": "РЎС‹СЂ Р”РѕСЂ Р‘Р»СЋ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "кг",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -3403,10 +3458,10 @@
         "parentId": "08af49f8-b00b-4023-858b-144f8f6cc4a8",
         "num": "00117",
         "code": "52",
-        "name": "Сыр Моцарелла",
+        "name": "РЎС‹СЂ РњРѕС†Р°СЂРµР»Р»Р°",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "кг",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -3414,10 +3469,10 @@
         "parentId": "08af49f8-b00b-4023-858b-144f8f6cc4a8",
         "num": "00027",
         "code": "23",
-        "name": "Сыр Пармезан",
+        "name": "РЎС‹СЂ РџР°СЂРјРµР·Р°РЅ",
         "productType": "GOODS",
-        "cookingPlaceType": "Сэты",
-        "mainUnit": "кг",
+        "cookingPlaceType": "РЎСЌС‚С‹",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -3425,10 +3480,10 @@
         "parentId": "08af49f8-b00b-4023-858b-144f8f6cc4a8",
         "num": "00120",
         "code": "55",
-        "name": "Сыр Творожный",
+        "name": "РЎС‹СЂ РўРІРѕСЂРѕР¶РЅС‹Р№",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "кг",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -3436,10 +3491,10 @@
         "parentId": "08af49f8-b00b-4023-858b-144f8f6cc4a8",
         "num": "00118",
         "code": "53",
-        "name": "Сыр Чеддер",
+        "name": "РЎС‹СЂ Р§РµРґРґРµСЂ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "кг",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -3447,10 +3502,10 @@
         "parentId": "08af49f8-b00b-4023-858b-144f8f6cc4a8",
         "num": "11626",
         "code": "686",
-        "name": "Сыр российский",
+        "name": "РЎС‹СЂ СЂРѕСЃСЃРёР№СЃРєРёР№",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -3458,10 +3513,10 @@
         "parentId": "08af49f8-b00b-4023-858b-144f8f6cc4a8",
         "num": "11206",
         "code": "239",
-        "name": "Сыр творожный",
+        "name": "РЎС‹СЂ С‚РІРѕСЂРѕР¶РЅС‹Р№",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -3469,10 +3524,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15754",
         "code": "1099",
-        "name": "Тарелка одноразовая",
+        "name": "РўР°СЂРµР»РєР° РѕРґРЅРѕСЂР°Р·РѕРІР°СЏ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "шт",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -3480,21 +3535,21 @@
         "parentId": "149ab114-c54b-41d0-836f-7efe715ec792",
         "num": "0041",
         "code": "70575",
-        "name": "Текила",
+        "name": "РўРµРєРёР»Р°",
         "productType": "None",
         "cookingPlaceType": "None",
         "mainUnit": "None",
-        "productCategory": "Алкоголь"
+        "productCategory": "РђР»РєРѕРіРѕР»СЊ"
     },
     {
         "id": "ac5564ca-da55-065b-0185-f45e8149a706",
         "parentId": "28609b7e-458d-4411-9af6-3dea87205452",
         "num": "15577",
         "code": "908",
-        "name": "Текила БУэн Амиго",
+        "name": "РўРµРєРёР»Р° Р‘РЈСЌРЅ РђРјРёРіРѕ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3502,10 +3557,10 @@
         "parentId": "28609b7e-458d-4411-9af6-3dea87205452",
         "num": "15686",
         "code": "1026",
-        "name": "Текила Дон Рамон Силвер",
+        "name": "РўРµРєРёР»Р° Р”РѕРЅ Р Р°РјРѕРЅ РЎРёР»РІРµСЂ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3513,10 +3568,10 @@
         "parentId": "28609b7e-458d-4411-9af6-3dea87205452",
         "num": "11074",
         "code": "86",
-        "name": "Текила Казадорес Репосадо",
+        "name": "РўРµРєРёР»Р° РљР°Р·Р°РґРѕСЂРµСЃ Р РµРїРѕСЃР°РґРѕ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3524,10 +3579,10 @@
         "parentId": "28609b7e-458d-4411-9af6-3dea87205452",
         "num": "15485",
         "code": "812",
-        "name": "Текила Лей 925 Репосадо",
+        "name": "РўРµРєРёР»Р° Р›РµР№ 925 Р РµРїРѕСЃР°РґРѕ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3535,10 +3590,10 @@
         "parentId": "28609b7e-458d-4411-9af6-3dea87205452",
         "num": "15775",
         "code": "1120",
-        "name": "Текила Лейенда дель Милагро Силвер",
+        "name": "РўРµРєРёР»Р° Р›РµР№РµРЅРґР° РґРµР»СЊ РњРёР»Р°РіСЂРѕ РЎРёР»РІРµСЂ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3546,10 +3601,10 @@
         "parentId": "28609b7e-458d-4411-9af6-3dea87205452",
         "num": "11495",
         "code": "547",
-        "name": "Текила Ольмека Голд",
+        "name": "РўРµРєРёР»Р° РћР»СЊРјРµРєР° Р“РѕР»Рґ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3557,10 +3612,10 @@
         "parentId": "28609b7e-458d-4411-9af6-3dea87205452",
         "num": "11494",
         "code": "546",
-        "name": "Текила Ольмека Силвер",
+        "name": "РўРµРєРёР»Р° РћР»СЊРјРµРєР° РЎРёР»РІРµСЂ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3568,10 +3623,10 @@
         "parentId": "28609b7e-458d-4411-9af6-3dea87205452",
         "num": "15709",
         "code": "1052",
-        "name": "Текила Ольмека Шоколад",
+        "name": "РўРµРєРёР»Р° РћР»СЊРјРµРєР° РЁРѕРєРѕР»Р°Рґ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3579,10 +3634,10 @@
         "parentId": "28609b7e-458d-4411-9af6-3dea87205452",
         "num": "11075",
         "code": "87",
-        "name": "Текила Патрон Аньехо",
+        "name": "РўРµРєРёР»Р° РџР°С‚СЂРѕРЅ РђРЅСЊРµС…Рѕ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3590,10 +3645,10 @@
         "parentId": "28609b7e-458d-4411-9af6-3dea87205452",
         "num": "11483",
         "code": "535",
-        "name": "Текила Патрон Силвер",
+        "name": "РўРµРєРёР»Р° РџР°С‚СЂРѕРЅ РЎРёР»РІРµСЂ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3601,10 +3656,10 @@
         "parentId": "28609b7e-458d-4411-9af6-3dea87205452",
         "num": "11496",
         "code": "548",
-        "name": "Текила Сауза Голд",
+        "name": "РўРµРєРёР»Р° РЎР°СѓР·Р° Р“РѕР»Рґ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3612,10 +3667,10 @@
         "parentId": "28609b7e-458d-4411-9af6-3dea87205452",
         "num": "11493",
         "code": "545",
-        "name": "Текила Сауза Силвер",
+        "name": "РўРµРєРёР»Р° РЎР°СѓР·Р° РЎРёР»РІРµСЂ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3623,10 +3678,10 @@
         "parentId": "28609b7e-458d-4411-9af6-3dea87205452",
         "num": "15687",
         "code": "1027",
-        "name": "Текила Эль Дестиладор Репосадо",
+        "name": "РўРµРєРёР»Р° Р­Р»СЊ Р”РµСЃС‚РёР»Р°РґРѕСЂ Р РµРїРѕСЃР°РґРѕ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3634,10 +3689,10 @@
         "parentId": "28609b7e-458d-4411-9af6-3dea87205452",
         "num": "15559",
         "code": "890",
-        "name": "Текила Эль Химадор Бланко",
+        "name": "РўРµРєРёР»Р° Р­Р»СЊ РҐРёРјР°РґРѕСЂ Р‘Р»Р°РЅРєРѕ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3645,10 +3700,10 @@
         "parentId": "28609b7e-458d-4411-9af6-3dea87205452",
         "num": "15560",
         "code": "891",
-        "name": "Текила Эррадура Репосадо",
+        "name": "РўРµРєРёР»Р° Р­СЂСЂР°РґСѓСЂР° Р РµРїРѕСЃР°РґРѕ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3656,10 +3711,10 @@
         "parentId": "28609b7e-458d-4411-9af6-3dea87205452",
         "num": "15502",
         "code": "829",
-        "name": "Текила Эсполон Бланко",
+        "name": "РўРµРєРёР»Р° Р­СЃРїРѕР»РѕРЅ Р‘Р»Р°РЅРєРѕ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3667,10 +3722,10 @@
         "parentId": "28609b7e-458d-4411-9af6-3dea87205452",
         "num": "15561",
         "code": "892",
-        "name": "Текила Эсполон Репосадо",
+        "name": "РўРµРєРёР»Р° Р­СЃРїРѕР»РѕРЅ Р РµРїРѕСЃР°РґРѕ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3678,10 +3733,10 @@
         "parentId": "28609b7e-458d-4411-9af6-3dea87205452",
         "num": "11065",
         "code": "76",
-        "name": "Текила в ассортименте (Эспесьяль Ньютон)",
+        "name": "РўРµРєРёР»Р° РІ Р°СЃСЃРѕСЂС‚РёРјРµРЅС‚Рµ (Р­СЃРїРµСЃСЊСЏР»СЊ РќСЊСЋС‚РѕРЅ)",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3689,7 +3744,7 @@
         "parentId": "7e27cc27-5dee-4db5-9047-e1db9f43f72c",
         "num": "0021",
         "code": "58",
-        "name": "Тесто",
+        "name": "РўРµСЃС‚Рѕ",
         "productType": "None",
         "cookingPlaceType": "None",
         "mainUnit": "None",
@@ -3700,10 +3755,10 @@
         "parentId": "05c92d33-2c91-4cb8-92f1-6b80faa27260",
         "num": "00110",
         "code": "42",
-        "name": "Томаты в с/соку",
+        "name": "РўРѕРјР°С‚С‹ РІ СЃ/СЃРѕРєСѓ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "кг",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -3711,10 +3766,10 @@
         "parentId": "c424313f-4aae-4baa-8e13-22846e9ef7ac",
         "num": "15523",
         "code": "852",
-        "name": "Тоник ПЭТ",
+        "name": "РўРѕРЅРёРє РџР­Рў",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3722,10 +3777,10 @@
         "parentId": "c424313f-4aae-4baa-8e13-22846e9ef7ac",
         "num": "11126",
         "code": "141",
-        "name": "Тоник стекло",
+        "name": "РўРѕРЅРёРє СЃС‚РµРєР»Рѕ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "шт",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -3733,10 +3788,10 @@
         "parentId": "08af49f8-b00b-4023-858b-144f8f6cc4a8",
         "num": "11178",
         "code": "210",
-        "name": "Тофу",
+        "name": "РўРѕС„Сѓ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -3744,10 +3799,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15474",
         "code": "800",
-        "name": "Трубочки 400шт",
+        "name": "РўСЂСѓР±РѕС‡РєРё 400С€С‚",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -3755,10 +3810,10 @@
         "parentId": "a466d30d-9854-490d-a67a-ac153267fa3f",
         "num": "11138",
         "code": "163",
-        "name": "Тунец филе",
+        "name": "РўСѓРЅРµС† С„РёР»Рµ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -3766,10 +3821,10 @@
         "parentId": "a466d30d-9854-490d-a67a-ac153267fa3f",
         "num": "11140",
         "code": "165",
-        "name": "Угорь жареный (б/с)",
+        "name": "РЈРіРѕСЂСЊ Р¶Р°СЂРµРЅС‹Р№ (Р±/СЃ)",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -3777,10 +3832,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15507",
         "code": "834",
-        "name": "Украшения",
+        "name": "РЈРєСЂР°С€РµРЅРёСЏ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "кг",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -3788,10 +3843,10 @@
         "parentId": "71a1c187-73d0-4124-bfaf-7b24f1ada7d1",
         "num": "11641",
         "code": "701",
-        "name": "Укроп свежий",
+        "name": "РЈРєСЂРѕРї СЃРІРµР¶РёР№",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -3799,10 +3854,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11208",
         "code": "241",
-        "name": "Уксус бальзамический",
+        "name": "РЈРєСЃСѓСЃ Р±Р°Р»СЊР·Р°РјРёС‡РµСЃРєРёР№",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3810,10 +3865,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11229",
         "code": "263",
-        "name": "Уксус винный",
+        "name": "РЈРєСЃСѓСЃ РІРёРЅРЅС‹Р№",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3821,10 +3876,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11148",
         "code": "175",
-        "name": "Уксус рисовый",
+        "name": "РЈРєСЃСѓСЃ СЂРёСЃРѕРІС‹Р№",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -3832,10 +3887,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15475",
         "code": "801",
-        "name": "Универсальное мющее ср-во 5л",
+        "name": "РЈРЅРёРІРµСЂСЃР°Р»СЊРЅРѕРµ РјСЋС‰РµРµ СЃСЂ-РІРѕ 5Р»",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -3843,10 +3898,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15513",
         "code": "840",
-        "name": "Упаковка",
+        "name": "РЈРїР°РєРѕРІРєР°",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -3854,10 +3909,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11181",
         "code": "213",
-        "name": "Фасоль белая бобы",
+        "name": "Р¤Р°СЃРѕР»СЊ Р±РµР»Р°СЏ Р±РѕР±С‹",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -3865,10 +3920,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "15579",
         "code": "910",
-        "name": "Физалис",
+        "name": "Р¤РёР·Р°Р»РёСЃ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "кг",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -3876,10 +3931,10 @@
         "parentId": "a466d30d-9854-490d-a67a-ac153267fa3f",
         "num": "11139",
         "code": "164",
-        "name": "Форель БГ",
+        "name": "Р¤РѕСЂРµР»СЊ Р‘Р“",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -3887,21 +3942,21 @@
         "parentId": "7e27cc27-5dee-4db5-9047-e1db9f43f72c",
         "num": "0004",
         "code": null,
-        "name": "Фрукты",
+        "name": "Р¤СЂСѓРєС‚С‹",
         "productType": "None",
         "cookingPlaceType": "None",
         "mainUnit": "None",
-        "productCategory": "Фрукты"
+        "productCategory": "Р¤СЂСѓРєС‚С‹"
     },
     {
         "id": "ac5564ca-da55-065b-0185-f45e8149a801",
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15596",
         "code": "930",
-        "name": "Хайбол стекло",
+        "name": "РҐР°Р№Р±РѕР» СЃС‚РµРєР»Рѕ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -3909,7 +3964,7 @@
         "parentId": "7e27cc27-5dee-4db5-9047-e1db9f43f72c",
         "num": "0034",
         "code": "70567",
-        "name": "Хлебобулочные изделия",
+        "name": "РҐР»РµР±РѕР±СѓР»РѕС‡РЅС‹Рµ РёР·РґРµР»РёСЏ",
         "productType": "None",
         "cookingPlaceType": "None",
         "mainUnit": "None",
@@ -3920,10 +3975,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "11067",
         "code": "78",
-        "name": "Хозяйственные товары",
+        "name": "РҐРѕР·СЏР№СЃС‚РІРµРЅРЅС‹Рµ С‚РѕРІР°СЂС‹",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "шт",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -3931,10 +3986,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11149",
         "code": "176",
-        "name": "Хондаши",
+        "name": "РҐРѕРЅРґР°С€Рё",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -3942,10 +3997,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "00114",
         "code": "49",
-        "name": "Чай Зеленый",
+        "name": "Р§Р°Р№ Р—РµР»РµРЅС‹Р№",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -3953,10 +4008,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "00025",
         "code": "21",
-        "name": "Чай Черный",
+        "name": "Р§Р°Р№ Р§РµСЂРЅС‹Р№",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -3964,10 +4019,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15606",
         "code": "944",
-        "name": "Чаша стопируемая",
+        "name": "Р§Р°С€Р° СЃС‚РѕРїРёСЂСѓРµРјР°СЏ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -3975,10 +4030,10 @@
         "parentId": "08af49f8-b00b-4023-858b-144f8f6cc4a8",
         "num": "11207",
         "code": "240",
-        "name": "Чеддер",
+        "name": "Р§РµРґРґРµСЂ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -3986,10 +4041,10 @@
         "parentId": "71a1c187-73d0-4124-bfaf-7b24f1ada7d1",
         "num": "11247",
         "code": "282",
-        "name": "Черри",
+        "name": "Р§РµСЂСЂРё",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -3997,10 +4052,10 @@
         "parentId": "71a1c187-73d0-4124-bfaf-7b24f1ada7d1",
         "num": "11163",
         "code": "194",
-        "name": "Чеснок свежий",
+        "name": "Р§РµСЃРЅРѕРє СЃРІРµР¶РёР№",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -4008,10 +4063,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "11080",
         "code": "92",
-        "name": "Чивас Ригал 12",
+        "name": "Р§РёРІР°СЃ Р РёРіР°Р» 12",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -4019,10 +4074,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "15593",
         "code": "927",
-        "name": "Чипсы кукурузные Начос",
+        "name": "Р§РёРїСЃС‹ РєСѓРєСѓСЂСѓР·РЅС‹Рµ РќР°С‡РѕСЃ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "кг",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -4030,10 +4085,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11192",
         "code": "225",
-        "name": "Чипсы рисовые",
+        "name": "Р§РёРїСЃС‹ СЂРёСЃРѕРІС‹Рµ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -4041,10 +4096,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15495",
         "code": "822",
-        "name": "Швабра телескопич",
+        "name": "РЁРІР°Р±СЂР° С‚РµР»РµСЃРєРѕРїРёС‡",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -4052,10 +4107,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15599",
         "code": "937",
-        "name": "Шейкер серебро",
+        "name": "РЁРµР№РєРµСЂ СЃРµСЂРµР±СЂРѕ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -4063,10 +4118,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "11155",
         "code": "182",
-        "name": "Шиитаке сухие",
+        "name": "РЁРёРёС‚Р°РєРµ СЃСѓС…РёРµ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -4074,10 +4129,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "11485",
         "code": "537",
-        "name": "Шкаф морозильный Hurakan HKN-UF100G",
+        "name": "РЁРєР°С„ РјРѕСЂРѕР·РёР»СЊРЅС‹Р№ Hurakan HKN-UF100G",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "шт",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -4085,10 +4140,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "11484",
         "code": "536",
-        "name": "Шкаф холодильный Hurakan HKN-DB125H",
+        "name": "РЁРєР°С„ С…РѕР»РѕРґРёР»СЊРЅС‹Р№ Hurakan HKN-DB125H",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "шт",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -4096,10 +4151,10 @@
         "parentId": "2f9c9516-ab65-4fa0-aa47-53f364626954",
         "num": "15608",
         "code": "946",
-        "name": "Шоколад Ритер спорт",
+        "name": "РЁРѕРєРѕР»Р°Рґ Р РёС‚РµСЂ СЃРїРѕСЂС‚",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -4107,10 +4162,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15756",
         "code": "1101",
-        "name": "Штофф 500 мл стекло",
+        "name": "РЁС‚РѕС„С„ 500 РјР» СЃС‚РµРєР»Рѕ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "шт",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -4118,10 +4173,10 @@
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "11567",
         "code": "623",
-        "name": "Щипцы универсальные 30 см",
+        "name": "Р©РёРїС†С‹ СѓРЅРёРІРµСЂСЃР°Р»СЊРЅС‹Рµ 30 СЃРј",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "шт",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -4129,10 +4184,10 @@
         "parentId": "71a1c187-73d0-4124-bfaf-7b24f1ada7d1",
         "num": "11199",
         "code": "232",
-        "name": "Эдамаме в стручках",
+        "name": "Р­РґР°РјР°РјРµ РІ СЃС‚СЂСѓС‡РєР°С…",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -4140,10 +4195,10 @@
         "parentId": "43da42a4-1f7d-4e2a-95af-f4df1d042cf7",
         "num": "15621",
         "code": "959",
-        "name": "Эль Паро Шардоне Совиньон Блан бел сух",
+        "name": "Р­Р»СЊ РџР°СЂРѕ РЁР°СЂРґРѕРЅРµ РЎРѕРІРёРЅСЊРѕРЅ Р‘Р»Р°РЅ Р±РµР» СЃСѓС…",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -4151,10 +4206,10 @@
         "parentId": "82d1fc52-9cb7-dd86-017d-1dc4fd073c4c",
         "num": "15732",
         "code": "1076",
-        "name": "Яблоки",
+        "name": "РЇР±Р»РѕРєРё",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "кг",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "РєРі",
         "productCategory": "None"
     },
     {
@@ -4162,21 +4217,21 @@
         "parentId": "82d1fc52-9cb7-dd86-017d-1dc4fd073c4c",
         "num": "00031",
         "code": null,
-        "name": "Яблоко",
+        "name": "РЇР±Р»РѕРєРѕ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "кг",
-        "productCategory": "Фрукты"
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РєРі",
+        "productCategory": "Р¤СЂСѓРєС‚С‹"
     },
     {
         "id": "ac5564ca-da55-065b-0185-f45e8149a717",
         "parentId": "c424313f-4aae-4baa-8e13-22846e9ef7ac",
         "num": "15526",
         "code": "855",
-        "name": "Ягодный морс",
+        "name": "РЇРіРѕРґРЅС‹Р№ РјРѕСЂСЃ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "порц",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "РїРѕСЂС†",
         "productCategory": "None"
     },
     {
@@ -4184,10 +4239,10 @@
         "parentId": "08af49f8-b00b-4023-858b-144f8f6cc4a8",
         "num": "11287",
         "code": "326",
-        "name": "Яйцо куриное",
+        "name": "РЇР№С†Рѕ РєСѓСЂРёРЅРѕРµ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "шт",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "С€С‚",
         "productCategory": "None"
     },
     {
@@ -4195,10 +4250,10 @@
         "parentId": "43da42a4-1f7d-4e2a-95af-f4df1d042cf7",
         "num": "11057",
         "code": "65",
-        "name": "вино Саломон рислинг фон ден Террассен бел сух",
+        "name": "РІРёРЅРѕ РЎР°Р»РѕРјРѕРЅ СЂРёСЃР»РёРЅРі С„РѕРЅ РґРµРЅ РўРµСЂСЂР°СЃСЃРµРЅ Р±РµР» СЃСѓС…",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -4206,10 +4261,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "15497",
         "code": "824",
-        "name": "виски Баллантайс",
+        "name": "РІРёСЃРєРё Р‘Р°Р»Р»Р°РЅС‚Р°Р№СЃ",
         "productType": "GOODS",
-        "cookingPlaceType": "Холодный Цех",
-        "mainUnit": "л",
+        "cookingPlaceType": "РҐРѕР»РѕРґРЅС‹Р№ Р¦РµС…",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -4217,10 +4272,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "11059",
         "code": "67",
-        "name": "виски Джемесон",
+        "name": "РІРёСЃРєРё Р”Р¶РµРјРµСЃРѕРЅ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -4228,10 +4283,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "11089",
         "code": "101",
-        "name": "виски Лафройг квоттер",
+        "name": "РІРёСЃРєРё Р›Р°С„СЂРѕР№Рі РєРІРѕС‚С‚РµСЂ",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -4239,10 +4294,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "11058",
         "code": "66",
-        "name": "виски Хаус Дюарс бел, джим бим, глен клан, вильям лоусонс)",
+        "name": "РІРёСЃРєРё РҐР°СѓСЃ Р”СЋР°СЂСЃ Р±РµР», РґР¶РёРј Р±РёРј, РіР»РµРЅ РєР»Р°РЅ, РІРёР»СЊСЏРј Р»РѕСѓСЃРѕРЅСЃ)",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -4250,10 +4305,10 @@
         "parentId": "523982cd-21e2-4250-b2fc-4b1a915eccf1",
         "num": "11096",
         "code": "108",
-        "name": "водка Абсолют",
+        "name": "РІРѕРґРєР° РђР±СЃРѕР»СЋС‚",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     },
     {
@@ -4261,10 +4316,10 @@
         "parentId": "3df854e8-4ce9-415d-a6de-ec01b11ad337",
         "num": "11094",
         "code": "106",
-        "name": "хайланд парк 12 лет",
+        "name": "С…Р°Р№Р»Р°РЅРґ РїР°СЂРє 12 Р»РµС‚",
         "productType": "GOODS",
-        "cookingPlaceType": "Бар",
-        "mainUnit": "л",
+        "cookingPlaceType": "Р‘Р°СЂ",
+        "mainUnit": "Р»",
         "productCategory": "None"
     }
 ]

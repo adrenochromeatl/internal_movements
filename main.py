@@ -1,6 +1,6 @@
 import json
 import os.path
-from datetime import datetime
+import datetime
 from pathlib import Path
 from flask import Flask, render_template, request
 import func
@@ -9,38 +9,40 @@ app = Flask(__name__)
 
 employee = None
 items = None
+products = None
 
 
 @app.route('/', methods=['post', 'get'])
 def check_card_number() -> 'html':
     return render_template('card_number_input.html',
-                           the_title='Вход')
+                           the_title='Входъ')
 
 
 @app.route('/list', methods=['post', 'get'])
 def show_list() -> 'html':
-    global employee
+    global employee, products
     try:
+        products = func.read_products()
+        employees = func.read_employees()
         card_num = request.form['card_number']
-        employee = func.read_employees()[card_num]
-    except:
-        try:
-            employee = employee
-        except:
+        if card_num in list(employees.keys()):
+            employee = employees[card_num]
+            return render_template('list.html',
+                                   username=employee,
+                                   the_title='Список позиций',
+                                   products=products)
+        else:
             return render_template('nice.html',
                                    the_title='Неверный номер',
-                                   status='Пройдите заново авторизацию')
-    with open(Path(Path.cwd(), 'resource', 'products.json')) as file:
-        products = json.load(file)
-    name_mainUnit = {}
-    for item in products:
-        name = item['name']
-        mainUnit = item['mainUnit']
-        name_mainUnit.update({name: mainUnit})
-    return render_template('list.html',
-                           username=employee,
-                           the_title='Список позиций',
-                           products=name_mainUnit)
+                                   status='Пройдите заново авторизацию',
+                                   button_name='Попробовать еще раз',
+                                   href='/')
+    except KeyError:
+        employee = employee
+        return render_template('list.html',
+                               username=employee,
+                               the_title='Список позиций',
+                               products=products)
 
 
 @app.route('/check', methods=['post', 'get'])
@@ -48,14 +50,13 @@ def check() -> 'html':
     global items
     store_list = list(func.read_stocks().keys())
     amount_list = request.form.getlist('amount')
-    with open(Path(Path.cwd(), 'resource', 'products.json')) as file:
-        products = json.load(file)
-    name_mainUnit = {}
-    for item in products:
-        name = item['name']
-        mainUnit = item['mainUnit']
-        name_mainUnit.update({name: mainUnit})
-    products_list = list(name_mainUnit.keys())
+    products_list = []
+    for i in products:
+        for key, value in i.items():
+            if key == 'name':
+                products_list.append(value)
+            else:
+                continue
     pram = dict(zip(products_list, amount_list))
     items = {}
     for key, value in pram.items():
@@ -66,19 +67,23 @@ def check() -> 'html':
     return render_template('check.html',
                            username=employee,
                            items=items,
-                           store_list=store_list,
-                           name_mainUnit=name_mainUnit)
+                           store_list=store_list)
 
 
 @app.route('/send', methods=['post', 'get'])
 def send() -> 'html':
-    date = request.form['date']
-    time = request.form['time']
+    if request.form['date'] or request.form['time'] == '' or None:
+        dateTtime = str(datetime.datetime.now().isoformat())
+        # dateTtime = str((datetime.datetime.now(tz=datetime.timezone(datetime.timedelta(hours=10)))).isoformat())[0:-6]
+    else:
+        date = request.form['date']
+        time = request.form['time']
+        dateTtime = f'{date}T{time}:00'
     storefrom = request.form['storeFrom']
     storeto = request.form['storeTo']
     comment = request.form['comment']
     dict_items = func.make_items(items)
-    message = func.collect_message(date_incoming=f'{date}T{time}:00',
+    message = func.collect_message(date_incoming=dateTtime,
                                    comment=f'Отправил пользователь: {employee}. '
                                            f'Добавлен комментарий: {comment}',
                                    store_from=storefrom,
@@ -88,15 +93,33 @@ def send() -> 'html':
     token = func.auth(envic)
     result = str(func.send_internal_movements(envic, token, message))
     if result == '<Response [200]>':
-        result = 'Успешно отправлен.'
+        resultus = 'Успешно отправлен.'
     elif result == '<Response [400]>':
-        result = 'Отправка не удалась. Неверно введены данные.'
+        resultus = 'Отправка не удалась. Неверно введены данные.'
     elif result == '<Response [500]>':
-        result = 'Отправка не удалась. Ошибка сервера'
+        resultus = 'Отправка не удалась. Ошибка сервера'
     func.logout(token, envic)
     return render_template('nice.html',
+                           the_title='Результат обработки',
                            username=employee,
-                           status=result)
+                           status=resultus,
+                           href='/list',
+                           button_name='Создать новый документ')
+
+
+@app.route('/synch', methods=['post', 'get'])
+def synch() -> 'html':
+    envic = func.read_envic()
+    token = func.auth(envic=envic)
+    func.write_stocks(token, envic)
+    func.products(token, envic)
+    func.get_employees_card_number(token, envic)
+    func.logout(token, envic)
+    return render_template('nice.html',
+                           the_title='Синхронизация выполнена',
+                           status='Синхронизация успешно выполнена',
+                           href='/',
+                           button_name='Создать документ')
 
 
 if __name__ == '__main__':
