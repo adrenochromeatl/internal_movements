@@ -15,7 +15,7 @@ products = None
 @app.route('/', methods=['post', 'get'])
 def check_card_number() -> 'html':
     return render_template('card_number_input.html',
-                           the_title='Вход')
+                           the_title='Входъ')
 
 
 @app.route('/list', methods=['post', 'get'])

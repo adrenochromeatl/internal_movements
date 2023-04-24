@@ -27,7 +27,7 @@
                     </div>
                     <div class="u-form-email u-form-group u-label-none">
                       <input type="search" list="{{store_list}}" placeholder="Выберите склад получатель" name="storeTo" class="u-input u-input-rectangle" required="required">
-                      <datalist id="{{store_list}}">
+                      <datalist id="{{ store_list }}">
                         {% for option in store_list %}
                         <option value="{{option}}"></option>
                         {% endfor %}
