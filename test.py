@@ -2,21 +2,8 @@ import json
 
 import requests
 from bs4 import BeautifulSoup
-
-from func import read_envic, \
-    read_products_name, \
-    read_products_id, \
-    read_stocks, \
-    write_stocks, \
-    write_products_name, \
-    write_products_id, \
-    auth, \
-    logout, \
-    collect_message, \
-    send_internal_movements, \
-    read_employees, \
-    make_items, \
-    get_employees_card_number, encod
+import datetime
+import func
 import random
 from pathlib import Path
 
@@ -47,7 +34,10 @@ from pathlib import Path
 # result = send_internal_movements(envic=envic, token=token, message=message)
 # print(result)
 
-envic = read_envic()
-token = auth(envic)
-print(write_products_name(token, envic))
-logout(token, envic)
+# envic = func.read_envic()
+# token = func.auth(envic)
+# func.products(token, envic)
+# print(func.read_products())
+# func.logout(token, envic)
+t = str((datetime.datetime.now(tz=datetime.timezone(datetime.timedelta(hours=10)))).isoformat())[0:-6]
+print(t)

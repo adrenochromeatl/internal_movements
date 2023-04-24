@@ -15,12 +15,12 @@ def read_envic():
 
 
 def auth(envic):
-    sha1pass = hashlib.sha1('restoRtest'.encode('utf-8')).hexdigest()
+    sha1pass = hashlib.sha1(envic['password'].encode('utf-8')).hexdigest()
     auth_url = (envic['protocol'] + '://' +
                 envic['server'] + ':' +
                 envic['port'] +
                 envic['bd'] + '/api/auth?login=' +
-                'admin' + '&pass=' + sha1pass)
+                envic['login'] + '&pass=' + sha1pass)
     token = requests.get(auth_url)
     return token
 
@@ -59,59 +59,87 @@ def read_stocks():
     return stocks
 
 
-def write_products_name(token, envic):
-    url = (envic['protocol'] + '://' +
-           envic['server'] + ':' +
-           envic['port'] +
-           envic['bd'] + '/api/products?key=' + token.text)
+def products(token, server_data):
+    url = (server_data['protocol'] + '://' +
+           server_data['server'] + ':' +
+           server_data['port'] +
+           server_data['bd'] + '/api/products?key=' + token.text)
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'xml')
-    products_list = []
-    for name in soup.find_all('name'):
-        products_list.append(name.string)
-    products_id = []
-    for id in soup.find_all('id'):
-        products_id.append(id.text)
-    products_full = dict(zip(products_list, products_id))
-    with open(Path('resource', 'products_name.json'), 'w', encoding=encod) as file:
-        json.dump(products_full, file, indent=4, ensure_ascii=False)
-    # return products_full
-    return soup
+    result = []
+    for productDto in soup.find_all('productDto'):
+        try:
+            id = productDto.find('id').string
+        except AttributeError:
+            id = 'None'
 
-def write_products_id(token, envic):
-    url = (envic['protocol'] + '://' +
-           envic['server'] + ':' +
-           envic['port'] +
-           envic['bd'] + '/api/products?key=' + token.text)
-    response = requests.get(url)
-    soup = BeautifulSoup(response.content, 'xml')
-    products_list = []
-    for name in soup.find_all('name'):
-        products_list.append(name.string)
-    products_id = []
-    for id in soup.find_all('id'):
-        products_id.append(id.text)
-    products_full = dict(zip(products_id, products_list))
-    with open(Path('resource', 'products_id.json'), 'w', encoding=encod) as file:
-        json.dump(products_full, file, indent=4, ensure_ascii=False)
-    return products_full
+        try:
+            parentId = productDto.find('parentId').string
+        except AttributeError:
+            parentId = 'None'
+
+        try:
+            num = productDto.find('num').string
+        except AttributeError:
+            num = 'None'
+
+        try:
+            code = productDto.find('code').string
+        except AttributeError:
+            code = 'None'
+
+        try:
+            name = productDto.find('name').string
+        except AttributeError:
+            name = 'None'
+
+        try:
+            productType = productDto.find('productType').string
+        except AttributeError:
+            productType = 'None'
+
+        try:
+            cookingPlaceType = productDto.find('cookingPlaceType').string
+        except AttributeError:
+            cookingPlaceType = 'None'
+
+        try:
+            mainUnit = productDto.find('mainUnit').string
+        except AttributeError:
+            mainUnit = 'None'
+
+        try:
+            productCategory = productDto.find('productCategory').string
+        except AttributeError:
+            productCategory = 'None'
+
+        eta = {
+            "id": id,
+            "parentId": parentId,
+            "num": num,
+            "code": code,
+            "name": name,
+            "productType": productType,
+            "cookingPlaceType": cookingPlaceType,
+            "mainUnit": mainUnit,
+            "productCategory": productCategory
+        }
+        result.append(eta)
+    with open(Path('resource', 'products.json'), 'w', encoding=encod) as file:
+        json.dump(result, file, indent=4, ensure_ascii=False)
+    return result
 
 
-# Прочитать ИЗ ЛОГА продукты {name:id}
-def read_products_name():
-    with open(Path('resource', 'products_name.json'), encoding=encod) as file:
-        products = json.load(file)
-    return products
-
-
-def read_products_id():
-    with open(Path('resource', 'products_id.json'), encoding=encod) as file:
-        products = json.load(file)
-    return products
+def read_products():
+    with open(Path('resource', 'products.json'), encoding=encod) as file:
+        result = json.load(file)
+    return result
 
 
 def make_items(name_amount_list):
-    products_dict = read_products_name()
+    products_dict = {}
+    for item in read_products():
+        products_dict.update({item['name']: item['id']})
     items = []
     for name, amount in name_amount_list.items():
         one_piece = {
