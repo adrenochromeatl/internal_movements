@@ -25,11 +25,11 @@ def auth(envic):
     return token
 
 
-def logout(token, envic):
-    out_url = (envic['protocol'] + '://' +
-               envic['server'] + ':' +
-               envic['port'] +
-               envic['bd'] + '/api/logout?key=' + token.text)
+def logout(token, server_data):
+    out_url = (server_data['protocol'] + '://' +
+               server_data['server'] + ':' +
+               server_data['port'] +
+               server_data['bd'] + '/api/logout?key=' + token.text)
     result = requests.get(out_url)
     return result
 
