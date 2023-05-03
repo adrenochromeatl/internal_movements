@@ -4092,6 +4092,17 @@
         "productCategory": "None"
     },
     {
+        "id": "9d7200f1-8c76-41d8-8565-697ab993e460",
+        "parentId": "b0aeef11-1e73-4a70-bb69-d6d6b6aa0160",
+        "num": "15793",
+        "code": "70588",
+        "name": "Чоризо",
+        "productType": "DISH",
+        "cookingPlaceType": "Пицца",
+        "mainUnit": "порц",
+        "productCategory": "None"
+    },
+    {
         "id": "ac5564ca-da55-065b-0185-f45e8149a72f",
         "parentId": "8ae006fe-596f-4edf-b4a1-59b2ebaeb892",
         "num": "15495",

@@ -37,7 +37,6 @@ from pathlib import Path
 # envic = func.read_envic()
 # token = func.auth(envic)
 # func.products(token, envic)
-# print(func.read_products())
+print(func.read_products())
 # func.logout(token, envic)
-t = str((datetime.datetime.now(tz=datetime.timezone(datetime.timedelta(hours=10)))).isoformat())[0:-6]
-print(t)
+
