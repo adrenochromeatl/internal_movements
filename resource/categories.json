@@ -1,0 +1,107 @@
+[
+    {
+        "id": "3197e160-6add-69d7-0184-ee3d93f9efd2",
+        "deleted": false,
+        "name": "СПА"
+    },
+    {
+        "id": "82d1fc52-9cb7-dd86-017d-1dc4fd07385a",
+        "deleted": false,
+        "name": "Фрукты"
+    },
+    {
+        "id": "239bfba7-2b37-520d-0172-cafc2285c588",
+        "deleted": false,
+        "name": "Кофе"
+    },
+    {
+        "id": "82d1fc52-9cb7-dd86-017d-1dc4fd07385c",
+        "deleted": false,
+        "name": "Салаты"
+    },
+    {
+        "id": "82d1fc52-9cb7-dd86-017d-1dc4fd076453",
+        "deleted": false,
+        "name": "Пицца"
+    },
+    {
+        "id": "26c72993-598f-21b2-0183-aaebddfbc08b",
+        "deleted": false,
+        "name": "Мясо"
+    },
+    {
+        "id": "26c72993-598f-21b2-0184-131951fe284a",
+        "deleted": false,
+        "name": "Алкоголь"
+    },
+    {
+        "id": "3197e160-6add-69d7-0184-ee3d93f9f40d",
+        "deleted": false,
+        "name": "5 процедур абонемент"
+    },
+    {
+        "id": "3197e160-6add-69d7-0184-ee3d93f9f46d",
+        "deleted": false,
+        "name": "10 процедур абонемент"
+    },
+    {
+        "id": "ac5564ca-da55-065b-0185-f45e8149a855",
+        "deleted": false,
+        "name": "Ром"
+    },
+    {
+        "id": "ac5564ca-da55-065b-0185-f45e8149a7eb",
+        "deleted": false,
+        "name": "коктейли"
+    },
+    {
+        "id": "ac5564ca-da55-065b-0185-f45e8149a90a",
+        "deleted": false,
+        "name": "Вино"
+    },
+    {
+        "id": "ac5564ca-da55-065b-0185-f45e8149a843",
+        "deleted": false,
+        "name": "Водка"
+    },
+    {
+        "id": "ac5564ca-da55-065b-0185-f45e8149a7ed",
+        "deleted": false,
+        "name": "миксы"
+    },
+    {
+        "id": "ac5564ca-da55-065b-0185-f45e8149a831",
+        "deleted": false,
+        "name": "Виски"
+    },
+    {
+        "id": "ac5564ca-da55-065b-0185-f45e8149a87f",
+        "deleted": false,
+        "name": "ликеры"
+    },
+    {
+        "id": "ac5564ca-da55-065b-0185-f45e8149a6a0",
+        "deleted": false,
+        "name": "Текила"
+    },
+    {
+        "id": "ac5564ca-da55-065b-0185-f45e8149a7f6",
+        "deleted": false,
+        "name": "Напитки"
+    },
+    {
+        "id": "ac5564ca-da55-065b-0185-f45e8149a918",
+        "deleted": false,
+        "name": "пиво"
+    },
+    {
+        "id": "ac5564ca-da55-065b-0185-f45e8149a7f1",
+        "deleted": false,
+        "name": "Вермут"
+    },
+    {
+        "id": "ac5564ca-da55-065b-0185-f45e8149a8ad",
+        "deleted": false,
+        "name": "лимонады"
+    }
+]

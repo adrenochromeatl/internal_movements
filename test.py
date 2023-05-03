@@ -34,9 +34,7 @@ from pathlib import Path
 # result = send_internal_movements(envic=envic, token=token, message=message)
 # print(result)
 
-# envic = func.read_envic()
-# token = func.auth(envic)
-# func.products(token, envic)
-print(func.read_products())
-# func.logout(token, envic)
-
+server_data = func.read_envic()
+token = func.auth(server_data)
+print(func.categories(token, server_data))
+func.logout(token, server_data)

@@ -14,15 +14,17 @@
               <div class="u-expanded-width u-table u-table-responsive u-table-1">
                 <table id="mytable" class="u-table-entity">
                   <colgroup>
-                      <col width="70%">
+                      <col width="60%">
                       <col width="15%">
                       <col width="15%">
+                      <col width="10%">
                   </colgroup>
                   <thead class="u-palette-4-light-1 u-table-header u-text-black u-table-header-1">
                     <tr style="height: 46px;">
                       <th class="u-border-1 u-border-black u-table-cell">Наименование</th>
                       <th class="u-border-1 u-border-black u-table-cell">Количество</th>
                       <th class="u-border-1 u-border-black u-table-cell">Ед. Изм.</th>
+                      <th class="u-border-1 u-border-black u-table-cell">Категория</th>
                     </tr>
                   </thead>
                   <tbody class="u-table-body u-white u-table-body-1">
@@ -33,6 +35,7 @@
                             <input name="amount" type="text" placeholder="Введите кол-во" class="u-input u-input-rectangle">
                         </td>
                         <td class="u-border-1 u-border-black u-table-cell">{{ one_product['mainUnit'] }}</td>
+                        <td class="u-border-1 u-border-black u-table-cell">{{ one_product['productCategory'] }}</td>
                     </tr>
                   {% endfor %}
                   </tbody>

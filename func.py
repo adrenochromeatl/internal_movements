@@ -136,6 +136,23 @@ def read_products():
     return result
 
 
+def categories(token, server_data):
+    url = (server_data['protocol'] + '://' +
+           server_data['server'] + ':' +
+           server_data['port'] +
+           server_data['bd'] + "/api/v2/entities/products/category/list?key=" + token.text)
+    cats = requests.get(url).json()
+    with open(Path('resource', 'categories.json'), 'w', encoding=encod) as file:
+        json.dump(cats, file, indent=4, ensure_ascii=False)
+    return cats
+
+
+def read_categories():
+    with open(Path('resource', 'categories.json'), encoding=encod) as file:
+        cats = json.load(file)
+    return cats
+
+
 def make_items(name_amount_list):
     products_dict = {}
     for item in read_products():
